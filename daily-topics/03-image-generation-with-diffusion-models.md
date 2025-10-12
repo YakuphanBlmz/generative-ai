@@ -286,3 +286,4 @@ Difüzyon Modelleri, görüntü sentezinde benzeri görülmemiş bir kontrol, do
 
 Hesaplama açısından yoğun olsalar da, devam eden araştırmalar örnekleme hızlarını optimize etmeye ve kaynak gereksinimlerini azaltmaya odaklanmakta, böylece daha geniş dağıtım için daha erişilebilir hale gelmektedir. Difüzyon Modellerinin ilkeli olasılıksal çerçevesi ve olağanüstü performansı, yaratıcı yapay zeka ve yapay görüşün geleceğinde temel bir teknoloji olarak konumlarını sağlamlaştırmaktadır.
 
+
