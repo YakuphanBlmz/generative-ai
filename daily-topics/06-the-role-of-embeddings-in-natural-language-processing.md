@@ -312,3 +312,4 @@ Gömülü temsiller, Doğal Dil İşleme ortamını temelden yeniden şekillendi
 
 
 
+
