@@ -282,3 +282,4 @@ Metin-SQL modelleri, insan-veri etkileşiminde önemli bir ilerlemeyi temsil ede
 
 
 
+
