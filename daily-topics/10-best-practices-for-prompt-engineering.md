@@ -265,3 +265,4 @@ oluşturulan_prompt = generate_creative_slogan(ürün, özellik, hedef_kitle)
 Prompt mühendisliği, üretken yapay zeka çağında merkezi bir beceri olarak ortaya çıkmıştır. Sadece talimat vermenin ötesine geçerek, dilsel hassasiyeti AI model davranışlarının anlaşılmasıyla birleştiren sofistike bir pratiğe dönüşmüştür. Netlik, özgüllük ve yinelemeli iyileştirme gibi ilkeleri benimseyerek ve Düşünce Zinciri ve kendi kendini düzeltme gibi gelişmiş stratejileri akıllıca uygulayarak, uygulayıcılar LLM'lerden eşi benzeri görülmemiş yetenekler elde edebilirler. Ancak bu güç, önyargıyı azaltma, şeffaflığı sağlama ve yapay zekayı sorumlu bir şekilde dağıtma gibi kritik bir etik sorumluluğu da beraberinde getirir. Üretken yapay zeka gelişmeye devam ettikçe, prompt mühendisliğinde ustalık, çeşitli uygulamalarda dönüştürücü potansiyelinden etkin bir şekilde yararlanmak için vazgeçilmez olmaya devam edecek ve sonuçta insan-AI işbirliğinin geleceğini şekillendirecektir.
 
 
+
