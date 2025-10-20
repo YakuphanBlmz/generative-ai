@@ -283,3 +283,4 @@ print(f"Latent vektörün ilk 5 elemanı: {latent_vector[0, :5].numpy()}")
 
 
 
+
