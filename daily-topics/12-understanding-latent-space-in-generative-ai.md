@@ -174,3 +174,4 @@ print("Manipüle Edilmiş Gizli Vektör (3. boyut artırıldı):", manipulated_l
 
 
 
+
