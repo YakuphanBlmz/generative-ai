@@ -250,3 +250,4 @@ Gömülü temsiller, Doğal Dil İşlemeyi temelden dönüştürmüş, alanı se
 
 
 
+
