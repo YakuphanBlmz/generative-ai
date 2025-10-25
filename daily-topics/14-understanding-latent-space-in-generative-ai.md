@@ -205,3 +205,4 @@ plt.show()
 
 ## 6. Sonuç
 **Gizli alan**, üretken yapay zeka dünyasında vazgeçilmez bir kavramdır ve modellerin verilerin karmaşıklıklarını boyamayı öğrendiği gizli, soyut bir tuval görevi görür. Yüksek boyutlu bilginin anlamsal açıdan zengin, düşük boyutlu bir temsile sıkıştırılmasını sağlayarak, sürekliliği, ayrıştırılabilirliği ve enterpolasyon yoluyla yeni, tutarlı çıktılar üretme yeteneğini teşvik eder. İster VAE'lerde açıkça yapılandırılmış olsun, ister GAN'larda örtük olarak öğrenilmiş olsun, ister yayılım modellerinde yinelemeli süreçler aracılığıyla gezinilmiş olsun, gizli alanı anlamak üretken YZ'nin tüm potansiyelini ortaya çıkarmanın anahtarıdır. Araştırmalar ilerledikçe, gizli alanları manipüle etme ve yorumlama konusundaki daha fazla gelişme, sanatsal yaratımdan bilimsel keşfe kadar sayısız uygulamada daha da kontrol edilebilir, açıklanabilir ve güçlü üretken modeller vaat etmektedir.
+
