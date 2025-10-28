@@ -511,3 +511,4 @@ vae_model = VAE(encoder_instance, sampler_instance, decoder_instance)
 
 Varyasyonel Otoenkoderler, üretken modelleme için sofistike ve teorik olarak temellendirilmiş bir yaklaşımı temsil eder. Sürekli ve yorumlanabilir bir gizli alana olasılıksal bir eşleme öğrenerek, VAE'ler temel veri dağılımına ilişkin içgörüler sunarken çeşitli ve yeni veri örnekleri üretebilir. GAN muadillerine kıyasla bazen daha bulanık örnekler üretmelerine rağmen, yapılandırılmış bir gizli alan, mod çöküşü olmaması ve prensipli olasılıksal çerçeve açısından sundukları avantajlar, onları yaratıcı içerik üretiminden karmaşık bilimsel veri analizine kadar geniş bir makine öğrenimi uygulamasında paha biçilmez araçlar haline getirir. Üretken yapay zeka araştırmaları gelişmeye devam ederken, VAE'ler temel ve aktif olarak geliştirilen bir alan olmaya devam etmekte, örnek kalitesini iyileştirme ve uygulanabilirliklerini genişletme çabaları sürmektedir.
 
+
