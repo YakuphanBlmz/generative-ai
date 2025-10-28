@@ -1,7 +1,7 @@
 # The Process of Fine-Tuning a Large Language Model (LLM)
 
 [![English](https://img.shields.io/badge/View%20in-English-blue)](#english-content) [![Türkçe](https://img.shields.io/badge/Görüntüle-Türkçe-green)](#türkçe-içerik)
-
+ 
 ---
 <a name="english-content"></a>
 ## English Content
