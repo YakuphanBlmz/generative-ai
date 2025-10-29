@@ -274,3 +274,4 @@ print(f"Çıktı 3 önyargı kontrolü: {olası_önyargıyı_kontrol_et(örnek_�
 
 Üretken Yapay Zekaya gerçekten sorumlu bir yaklaşım, teknoloji uzmanlarını, etikçileri, politika yapıcıları, hukuk uzmanlarını ve kamuoyunu bir araya getiren multidisipliner bir çaba gerektirmektedir. Önyargı azaltma ve şeffaflık için **teknik çözümlere** yatırım yaparak, **sağlam düzenleyici çerçeveler** oluşturarak, **dijital okuryazarlığı** teşvik ederek ve tüm geliştirme yaşam döngüsü boyunca **etik mülahazaları** dahil ederek, Üretken Yapay Zekanın faydalarını en üst düzeye çıkarırken potansiyel zararlarını en aza indirmeye çalışabiliriz. Üretken Yapay Zekanın geleceği önceden belirlenmiş değildir; bugünkü seçimlerimizle şekillenecektir, bu da düşünceli, proaktif ve etik olarak yönlendirilen inovasyonun zorunluluğunu vurgulamaktadır.
 
+
