@@ -278,3 +278,4 @@ print(f"Çıktı 3 önyargı kontrolü: {olası_önyargıyı_kontrol_et(örnek_�
 
 
 
+
