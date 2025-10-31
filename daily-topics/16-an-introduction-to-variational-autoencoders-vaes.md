@@ -435,3 +435,4 @@ Varyasyonel Otomatik Kodlayıcılar, verilerin zengin, sürekli ve ayrışık g�
 *   Goodfellow, I., Bengio, Y., & Courville, A. (2016). *Deep Learning*. MIT Press. (Bölüm 20: Üretken Modeller)
 
 
+
