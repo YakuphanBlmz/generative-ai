@@ -434,3 +434,4 @@ Varyasyonel Otomatik Kodlayıcılar, verilerin zengin, sürekli ve ayrışık g�
 *   Rezende, D. J., Mohamed, S., & Wierstra, D. (2014). Stochastic Backpropagation and Variational Autoencoders. *arXiv preprint arXiv:1401.4082*.
 *   Goodfellow, I., Bengio, Y., & Courville, A. (2016). *Deep Learning*. MIT Press. (Bölüm 20: Üretken Modeller)
 
+
