@@ -433,3 +433,4 @@ Varyasyonel Otomatik Kodlayıcılar, verilerin zengin, sürekli ve ayrışık g�
 *   Kingma, D. P., & Welling, M. (2013). Auto-Encoding Variational Bayes. *arXiv preprint arXiv:1312.6114*.
 *   Rezende, D. J., Mohamed, S., & Wierstra, D. (2014). Stochastic Backpropagation and Variational Autoencoders. *arXiv preprint arXiv:1401.4082*.
 *   Goodfellow, I., Bengio, Y., & Courville, A. (2016). *Deep Learning*. MIT Press. (Bölüm 20: Üretken Modeller)
+
