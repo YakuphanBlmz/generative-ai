@@ -380,3 +380,4 @@ Gelecekteki araştırma yönleri şunları içerir:
 Text-to-SQL modelleri, kullanıcıların veritabanlarıyla etkileşim kurma biçiminde, katı sorgu dillerinden sezgisel doğal dil arayüzlerine geçişte güçlü bir paradigma değişimini temsil etmektedir. Erken kural tabanlı sistemlerden sofistike derin öğrenme mimarilerine ve Büyük Dil Modellerinin dönüştürücü gücüne kadar bu alan hızla ilerlemiştir. Temel mekanikler, doğal dil anlayışı, akıllı şema bağlama ve hassas SQL üretiminin dikkatli bir etkileşimini içerir. Belirsizlik, genelleme ve karmaşık sorgu üretimi etrafındaki zorluklar devam etse de, devam eden araştırmalar daha da sağlam, uyarlanabilir ve kullanıcı dostu Text-to-SQL sistemleri vaat ederek, veri erişimini ve içgörüleri daha geniş bir kitle için demokratikleştirmeye devam edecektir.
 
 
+
