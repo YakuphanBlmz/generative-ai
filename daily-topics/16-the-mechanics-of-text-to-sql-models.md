@@ -382,3 +382,4 @@ Text-to-SQL modelleri, kullanıcıların veritabanlarıyla etkileşim kurma biç
 
 
 
+
