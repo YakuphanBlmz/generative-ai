@@ -337,3 +337,4 @@ CoT yönlendirmesinin sürekli evrimi, temel mekanizmaları ve uygulamaları üz
 Nihayetinde, CoT yönlendirmesi, daha sağlam, güvenilir ve zeki üretken yapay zeka sistemleri oluşturmaya yönelik kritik bir adımı işaret etmektedir. Katkısı, yalnızca performans kazanımlarının ötesine geçerek, yapay zekanın bilişsel süreçlerinin daha derinlemesine anlaşılmasını sağlamakta ve gelişmiş akıl yürütme ve problem çözme yeteneklerinde gelecekteki yeniliklerin yolunu açmaktadır. BDM'ler ölçek ve karmaşıklık açısından büyümeye devam ettikçe, Zincirleme Düşünce yönlendirmesi, sofistike bilişsel yardımcılar olarak tam potansiyellerini ortaya çıkarmada bir köşe taşı olmaya devam edecektir.
 
 
+
