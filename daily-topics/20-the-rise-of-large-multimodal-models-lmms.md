@@ -316,3 +316,4 @@ Büyük Çok Modelli Modellerin ortaya çıkışı, yapay zekanın ilerlemesinde
 Ancak, LMM'ler için ileriye giden yol önemli engellerden yoksun değildir. Yüksek kaliteli, hizalanmış çok modallı veri setlerinin kıtlığı, eğitim ve çıkarım için gereken muazzam hesaplama kaynakları ve yorumlanabilirlik, önyargı, adalet ve güvenlikle ilgili kritik endişeler dikkatli araştırma ve prensipli gelişim gerektirmektedir. Bu engellerin üstesinden gelmek, LMM'lerin tüm potansiyelini gerçekleştirmek için çok önemli olacaktır. Çok modallı öğrenme araştırmaları sınırları zorlamaya devam ettikçe, LMM'ler yapay zekanın geleceğini şekillendirmede giderek daha merkezi bir rol oynamaya hazırlanıyor ve daha sezgisel, bağlama duyarlı ve karmaşık, çok modallı dünyamızla daha zengin etkileşime girebilen sistemleri teşvik ediyor. Gerçekten zeki, çok yönlü ve etik olarak uyumlu LMM'lere doğru yolculuk devam ediyor ve derin sosyal ve teknolojik etki vaat ediyor.
 
 
+
