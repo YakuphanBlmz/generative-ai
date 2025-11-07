@@ -270,3 +270,4 @@ LoRA, Üretken Yapay Zeka alanında dönüştürücü bir teknik olarak ortaya �
 
 LoRA'nın başarısı, en son yapay zeka modellerine erişimi demokratikleştirme ve dağıtımını hızlandırmada parametre-verimli yöntemlerin önemini vurgulamaktadır. Temel modeller boyut ve karmaşıklık açısından büyümeye devam ettikçe, LoRA gibi teknikler, yaygın olarak benimsenmelerini sağlamak, yeniliği teşvik etmek ve yapay zekada mümkün olanın sınırlarını zorlamak için temel olmaya devam edecektir. Basitliği, verimliliği ve güçlü ampirik performansı, LoRA'nın büyük dil modelleri ve diğer üretken mimariler için modern ince ayar stratejilerinin temel taşı konumunu sağlamlaştırmaktadır.
 
+
