@@ -267,3 +267,4 @@ Statik kelime gömülü temsillerinden dinamik, bağlamsallaştırılmış temsi
 
 
 
+
