@@ -264,3 +264,4 @@ Gömülü temsiller, son on yılda Doğal Dil İşleme alanındaki en önemli ge
 
 Statik kelime gömülü temsillerinden dinamik, bağlamsallaştırılmış temsillerin evrimi, nüanslı dil anlayışı, polisemiyi ve karmaşık sentaktik yapıları yakalama yeteneklerini ortaya çıkarmıştır. Üretken Yapay Zeka, makinelerin ne yaratabileceği ve anlayabileceği konusunda sınırları zorlamaya devam ettikçe, gömülü temsillerin rolü – hem doğrudan uygulamalarında hem de sofistike sinir mimarileri için temel mekanizma olarak – çok önemli olmaya devam edecektir. Gelecekteki araştırmalar muhtemelen daha sağlam, yorumlanabilir ve verimli gömülü temsil teknikleri geliştirmeye odaklanarak insan dili sezgisi ile makine zekası arasındaki boşluğu daha da kapatacaktır.
 
+
