@@ -341,3 +341,4 @@ Metin-SQL modelleri, insan dili ile yapılandırılmış veri sorgulama arasınd
 
 
 
+
