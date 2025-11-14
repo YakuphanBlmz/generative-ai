@@ -339,3 +339,4 @@ Metin-SQL modelleri, insan dili ile yapılandırılmış veri sorgulama arasınd
 Önemli ilerlemelere rağmen, zorluklar devam etmektedir. Bunlar arasında karmaşık birleşimli sorguları ele alma, belirsiz veya yetersiz belirtilmiş sorularla başa çıkma, görülmemiş veritabanı şemalarına sağlam genelleme sağlama ve yanlış veya güvenli olmayan SQL üretme riskini azaltma yer almaktadır. Gelecekteki araştırmalar muhtemelen bu modellerin yorumlanabilirliğini ve açıklanabilirliğini geliştirmeye, gerçek dünya dilbilimsel varyasyonlarına karşı sağlamlıklarını artırmaya ve bunları kritik veri altyapısına entegre etmek için daha verimli ve güvenilir yöntemler geliştirmeye odaklanacaktır. Metin-SQL'in sürekli gelişimi, verileri daha geniş bir kitle için daha erişilebilir ve uygulanabilir hale getirme vaadini taşımaktadır.
 
 
+
