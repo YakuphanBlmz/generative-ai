@@ -250,3 +250,4 @@ Düşünce Zinciri (CoT) istemi, Büyük Dil Modellerinin (BDM'ler) akıl yürü
 
 Birkaç örnekli CoT'den sıfır örnekli CoT'ye evrim ve Kendi Kendine Tutarlı CoT gibi gelişmiş stratejilerin tanıtılması, bu istem paradigmasının uyarlanabilirliğini ve gücünü vurgulamaktadır. İfadeye duyarlılık, hata yayılımı ve hesaplama maliyetleri gibi zorluklar devam etse de, aktif araştırma topluluğu, hibrit akıl yürütme sistemleri ve daha sağlam öz-düzeltme mekanizmaları dahil olmak üzere yenilikçi çözümleri sürekli olarak keşfetmektedir. CoT istemi, üretken yapay zekanın bilişsel işlevler açısından neler başarabileceğinin sınırlarını zorlamakla kalmaz, aynı zamanda daha açıklanabilir ve güvenilir yapay zeka sistemleri için de zemin hazırlar. Sürekli gelişimi, daha da büyük bir potansiyelin kilidini açmayı vaat ederek, bizi daha önce yalnızca insan zekasına özgü olduğu düşünülen bir sofistikasyon düzeyinde akıl yürüyebilen BDM'lere yaklaştırıyor.
 
+
