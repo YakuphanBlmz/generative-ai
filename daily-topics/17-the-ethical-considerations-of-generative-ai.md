@@ -371,3 +371,4 @@ print(f"Filtrelenmiş: '{apply_ethical_filter(sample_output_3)}'\n")
 
 Bu etik boyutları ele almak sadece teknik bir sorun değil, aynı zamanda sosyo-teknik bir sorundur ve araştırmacılardan geliştiricilere, politika yapıcılardan etikçilere, hukuk uzmanlarından kamuoyuna kadar tüm paydaşların işbirliğini gerektirmektedir. Sorumlu YZ gelişimini önceliklendirerek, sağlam etik kılavuzlar ve düzenlemeler oluşturarak, dijital okuryazarlığı teşvik ederek ve anlamlı insan gözetimi sağlayarak, toplum Üretken YZ'nin dönüştürücü gücünden faydalanırken doğal risklerini azaltabilir. Üretken YZ'nin geleceği ve insanlık üzerindeki etkisi, sonuçta etik karmaşıklıklarını öngörü, dürüstlük ve insan değerlerine sarsılmaz bir bağlılıkla yönlendirme konusundaki kolektif taahhüdümüzle şekillenecektir.
 
+
