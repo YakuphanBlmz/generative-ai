@@ -334,3 +334,4 @@ if __name__ == "__main__":
 ### 7. Sonuç
 LoRA, ağırlık güncellemeleri için zarif ve son derece etkili bir parametre verimli adaptasyon stratejisi sunarak büyük üretken modeller için ince ayar paradigmasını devrim niteliğinde değiştirmiştir. Ağırlık güncellemeleri için düşük dereceli ayrıştırma temel fikri, hesaplama ve bellek gereksinimlerini önemli ölçüde azaltarak, milyarlarca parametreli modellerin adaptasyonunu çok daha geniş bir araştırmacı ve uygulayıcı yelpazesi için erişilebilir hale getirmiştir. Orijinal önceden eğitilmiş ağırlıkların bütünlüğünü korurken modüler, göreve özel adaptasyonlar sunan LoRA, yalnızca verimliliği artırmakla kalmaz, aynı zamanda hızla gelişen Üretken Yapay Zeka ortamı için sürdürülebilir ve esnek dağıtım stratejilerini de teşvik eder. LoRA, anıtsal temel modellerin tam potansiyelini ortaya çıkarmak için hedeflenen mimari değişikliklerin gücünün bir kanıtı olarak durmaktadır.
 
+
