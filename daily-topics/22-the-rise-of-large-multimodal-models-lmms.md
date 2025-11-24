@@ -309,3 +309,4 @@ Büyük Çok Modelli Modellerin ortaya çıkışı, Yapay Zeka'nın evriminde ö
 
 
 
+
