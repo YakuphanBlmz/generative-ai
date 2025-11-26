@@ -238,3 +238,4 @@ print(f"Filtrelenmiş 2: {simple_ethical_filter(ai_output_2)}")
 
 Üretken YZ, endüstrileri dönüştürme, insan yaratıcılığını artırma ve karmaşık sorunları çözme konusunda muazzam bir potansiyele sahiptir. Ancak, bu dönüştürücü güç önemli bir etik sorumlulukla birlikte gelir. Yanlılık, yanlış bilgi, fikri mülkiyet, hesap verebilirlik, çevresel etki ve insan temsilciliği zorlukları önemsiz değildir ve araştırmacılardan, geliştiricilerden, politika yapıcılardan ve kamuoyundan acil ve işbirlikçi ilgi talep etmektedir. Sağlam veri yönetişimi, gelişmiş azaltma teknikleri, şeffaf geliştirme uygulamaları ve kapsamlı düzenleyici çerçeveler aracılığıyla bu etik hususları proaktif olarak ele alarak, Üretken YZ'nin gücünü tüm insanlık için adil, güvenli ve faydalı bir şekilde kullanabiliriz. Üretken YZ'nin geleceği, yeniliğin sorumlulukla el ele ilerlemesini sağlayarak etik ilkelere bağlılıkla şekillenmelidir.
 
+
