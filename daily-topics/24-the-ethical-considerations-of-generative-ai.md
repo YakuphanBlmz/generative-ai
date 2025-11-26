@@ -245,3 +245,4 @@ print(f"Filtrelenmiş 2: {simple_ethical_filter(ai_output_2)}")
 
 
 
+
