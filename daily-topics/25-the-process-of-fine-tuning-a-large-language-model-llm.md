@@ -279,3 +279,4 @@ print("Bu kurulum, verileri hazırlamadan ve ince ayarlama için bir Trainer yap
 
 
 
+
