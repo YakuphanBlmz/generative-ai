@@ -494,3 +494,4 @@ Fonksiyon çağırma, Üretken Yapay Zeka'nın yeteneklerinde çok önemli bir i
 
 
 
+
