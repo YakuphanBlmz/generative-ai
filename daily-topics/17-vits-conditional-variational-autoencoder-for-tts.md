@@ -332,3 +332,4 @@ VITS, yüksek sadakatli ses üretimi ile etkileyici prozodik kontrol arasındaki
 
 Süre tahminleyici ve gizli değişken modellemesi aracılığıyla tanıtılan stokastik doğa, VITS'in insan konuşmasının doğal değişkenliğini yakalamasını sağlayarak sinirsel TTS ile bazen ilişkilendirilen monoton çıktıların ötesine geçmesini sağlar. Ayrıca, HiFi-GAN tabanlı bir kod çözücüye güvenilmesi, sentezlenen dalga formlarının olağanüstü kalitede olmasını sağlar. Üretken yapay zeka araştırmaları gelişmeye devam ettikçe, VITS güçlü bir temel ve bir ölçüt olarak hizmet ederek daha da kontrol edilebilir, sağlam ve insan benzeri konuşma sentez sistemlerine yönelik gelecekteki keşiflere ilham vermektedir. VITS tarafından gösterilen ilkeler – özellikle VAE'ler, akışlar ve GAN'ların sinerjik kombinasyonu – TTS'in ötesindeki çok modlu üretken modelleri etkilemeye adaydır.
 
+
