@@ -422,3 +422,4 @@ Ampirik sonuçlar MAE'nin etkinliğini açıkça göstermektedir: görüntü sı
 
 Özünde, MAE, etiketli veri gereksinimleri ve hesaplama kaynakları açısından giriş bariyerini önemli ölçüde düşürerek güçlü Vizyon Transformatör modellerine erişimi demokratikleştirmektedir. Maskeleme ve yeniden yapılandırmayı, doğal dil işlemesindeki etkisi gibi, bilgisayar görüşü için temel ve son derece etkili bir kendi kendine denetimli ön eğitim stratejisi olarak sağlam bir şekilde kurar. Yapay zeka giderek daha genel amaçlı modellere doğru ilerlerken, MAE daha ölçeklenebilir, verimli ve çok yönlü görsel zeka sistemlerinin yolunu açan temel bir teknoloji olarak durmaktadır.
 
+
