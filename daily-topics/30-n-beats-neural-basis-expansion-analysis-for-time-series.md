@@ -306,3 +306,4 @@ N-BEATS, derin öğrenme ile **zaman serisi tahmini** alanında önemli bir iler
 
 
 
+
