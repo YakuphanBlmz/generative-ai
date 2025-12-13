@@ -304,3 +304,4 @@ N-BEATS, derin öğrenme ile **zaman serisi tahmini** alanında önemli bir iler
 ## 7. Referanslar
 *   Oreshkin, B. N., Canning, A., & Ponomarenko, M. (2020). **N-BEATS: Neural Basis Expansion Analysis for Time Series Forecasting**. *International Conference on Learning Representations (ICLR)*.
 
+
