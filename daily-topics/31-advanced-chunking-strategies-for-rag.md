@@ -330,3 +330,4 @@ Ham yapılandırılmamış metinden son derece etkili bir RAG sistemine giden yo
 
 Parçalama stratejisi seçimi evrensel değildir; verinin doğasına, alana ve belirli kullanım durumuna oldukça bağlıdır. Pragmatik bir yaklaşım genellikle çeşitli stratejileri denemeyi ve giderek daha fazla, birden çok tekniğin güçlü yönlerinden yararlanan hibrit veya çok aşamalı boru hatları kullanmayı içerir. RAG sistemleri gelişmeye devam ettikçe, gelecekteki gelişmeler muhtemelen daha dinamik ve akıllı parçalama mekanizmalarına odaklanacaktır, potansiyel olarak daha küçük, özel modeller veya gerçek zamanlı geri bildirim döngüleri tarafından yönlendirilecektir. Amaç sabit kalır: LLM'lere mümkün olan en alakalı, tutarlı ve eksiksiz bağlamı sağlayarak, anlayışlı ve doğru üretim için tam potansiyellerini ortaya çıkarmak.
 
+
