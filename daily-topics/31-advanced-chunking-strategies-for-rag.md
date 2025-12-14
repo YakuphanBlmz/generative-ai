@@ -337,3 +337,4 @@ Parçalama stratejisi seçimi evrensel değildir; verinin doğasına, alana ve b
 
 
 
+
