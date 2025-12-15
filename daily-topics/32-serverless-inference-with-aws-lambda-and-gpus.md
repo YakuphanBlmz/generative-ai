@@ -273,3 +273,4 @@ AWS Lambda ve GPU'lar ile sunucusuz çıkarım, yüksek performanslı, uygun mal
 
 
 
+
