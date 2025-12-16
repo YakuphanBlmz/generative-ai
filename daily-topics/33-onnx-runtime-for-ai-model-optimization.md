@@ -362,3 +362,4 @@ ONNX Runtime, YZ modeli dağıtım ve optimizasyonu alanında köşe taşı bir 
 
 ONNX Runtime'dan elde edilen faydalar — önemli performans artışları, eşsiz çapraz platform uyumluluğu, sorunsuz donanım hızlandırma ve evrensel model birlikte çalışabilirliği dahil — geliştiricileri daha verimli, ölçeklenebilir ve çok yönlü YZ çözümleri oluşturmaya ve dağıtmaya topluca güçlendirir. YZ entegrasyonuna olan talebin sektörler arasında artmaya devam etmesiyle birlikte, ONNX Runtime'ın araştırma prototiplerinden üretime hazır sistemlere geçişi kolaylaştırmadaki rolü daha da belirginleşecek ve üretken YZ ve daha geniş makine öğrenimi ekosisteminde vazgeçilmez bir araç olarak statüsünü sağlamlaştıracaktır.
 
+
