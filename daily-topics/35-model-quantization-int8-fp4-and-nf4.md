@@ -432,3 +432,4 @@ Model kuantizasyonu, büyük Üretken Yapay Zeka modellerini daha verimli, eriş
 
 Kuantizasyon tekniklerindeki devam eden araştırma ve geliştirme, Üretken Yapay Zeka'nın geleceği için çok önemlidir ve sınırlı kaynaklarla nelerin mümkün olduğu konusunda sınırları zorlamaktadır. Modeller boyut ve karmaşıklık açısından büyümeye devam ettikçe, NF4 gibi gelişmiş kuantizasyon yöntemleri, Üretken Yapay Zeka'nın gücünün sürekli genişleyen bir topluluk tarafından kullanılabilmesini sağlayarak ön planda kalacaktır.
 
+
