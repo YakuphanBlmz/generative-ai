@@ -327,3 +327,4 @@ Endüktif yetenekleri, değişen düğüm derecelerini daha iyi ele alması ve d
 
 
 
+
