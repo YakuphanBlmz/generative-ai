@@ -325,3 +325,4 @@ Graf Dikkat Ağları (GAT'ler), dikkat kavramının graf mesaj iletim mekanizmas
 Endüktif yetenekleri, değişen düğüm derecelerini daha iyi ele alması ve dikkat katsayılarının sunduğu doğal yorumlanabilirlik, GAT'leri çok çeşitli graf yapılı veri görevleri için çok yönlü ve sağlam bir model haline getirir. Düğüm sınıflandırması ve kenar tahmini gibi temel problemlerden ilaç keşfi, tavsiye sistemleri ve bilgisayar görüşü gibi karmaşık uygulamalara kadar GAT'ler üstün performans ve esneklik göstermiştir. GNN'lerdeki araştırmalar gelişmeye devam ederken, GAT'ler tarafından öncülük edilen dikkat mekanizması, daha gelişmiş ve güçlü graf öğrenme mimarilerinin tasarımını etkileyen temel bir kavram olmaya devam etmektedir. GAT'lerin öznitelik benzerliklerine dayalı yerelleştirilmiş, ağırlıklı birleştirmeleri öğrenme yeteneği, modern graf temsil öğreniminin temel taşlarından biri olarak yerini sağlamlaştırmıştır.
 
 
+
