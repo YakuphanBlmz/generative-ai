@@ -372,3 +372,4 @@ GLU varyantlarının, özellikle **SwiGLU** ve **GeGLU**'nun daha sonraki geliş
 Özünde, GLU ve varyantları, derin öğrenmedeki son atılımları güçlendiren önemli bir mimari yeniliği temsil etmektedir. Daha etkili ve sağlam sinir ağları oluşturmak için güçlü bir reçete sunarak yapay zeka sınırını ileriye taşımaya devam etmektedirler.
 
 
+
