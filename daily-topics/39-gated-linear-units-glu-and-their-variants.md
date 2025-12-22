@@ -370,3 +370,4 @@ Sinir ağı aktivasyon fonksiyonlarının evrimi, daha fazla ifade gücü ve eğ
 GLU varyantlarının, özellikle **SwiGLU** ve **GeGLU**'nun daha sonraki gelişimi, bu paradigmayı daha da sağlamlaştırmıştır. **Swish** ve **GELU** gibi gelişmiş aktivasyon fonksiyonlarını kapı bileşenine entegre ederek, bu varyantlar model kapasitesini, eğitim kararlılığını ve geniş bir görev yelpazesinde ampirik performansı belirgin şekilde artırmıştır. **PaLM** ve **LLaMA** gibi son teknoloji **Büyük Dil Modellerinde (LLM'ler)**, **Transformer İleri Beslemeli Ağ (FFN)** katmanlarında yaygın olarak benimsenmeleri, üretken yapay zekada en son sonuçlara ulaşmadaki kritik rollerinin altını çizmektedir.
 
 Özünde, GLU ve varyantları, derin öğrenmedeki son atılımları güçlendiren önemli bir mimari yeniliği temsil etmektedir. Daha etkili ve sağlam sinir ağları oluşturmak için güçlü bir reçete sunarak yapay zeka sınırını ileriye taşımaya devam etmektedirler.
+
