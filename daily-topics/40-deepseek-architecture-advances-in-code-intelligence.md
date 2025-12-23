@@ -233,3 +233,4 @@ def faktoriyel_hesapla(n: int) -> int:
 
 ## 6. Sonuç
 DeepSeek-Coder mimarisi, kod zekası alanında önemli bir ilerlemeyi temsil etmektedir. Sağlam bir transformer temeli kullanılarak ve Ortayı Doldurma eğitim stratejisi, kapsamlı ve yüksek kaliteli bir kod külliyatı ve gelişmiş belirteçleme teknikleri gibi özel yenilikler entegre edilerek, DeepSeek-Coder modelleri kodu anlama ve üretme konusunda dikkate değer bir yeterlilik elde etmiştir. Programlama dillerinin karmaşık inceliklerini ele alma yetenekleri, kritik karşılaştırma testlerindeki güçlü performanslarıyla birleştiğinde, onları modern yazılım geliştirme için vazgeçilmez araçlar olarak konumlandırmaktadır. Üretken yapay zeka araştırmaları gelişmeye devam ettikçe, DeepSeek-Coder gibi modeller, kodu yazma, anlama ve kodla etkileşim kurma şeklimizin geleceğini şekillendirmede şüphesiz giderek daha merkezi bir rol oynayacaktır.
+
