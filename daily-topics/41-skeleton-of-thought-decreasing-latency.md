@@ -305,3 +305,4 @@ SoT'nin birincil faydası, geleneksel olarak sıralı bir süreci son derece ver
 7.  **Kıyaslama ve Değerlendirme**: Çeşitli görevler ve BDM mimarileri genelinde SoT'nin gecikme azaltma, çıktı kalitesi ve tutarlılığını geleneksel sıralı ve diğer gelişmiş istem yöntemlerine karşı değerlendirmek için özel olarak tasarlanmış standartlaştırılmış kıyaslamalar ve metrikler oluşturmak.
 
 Bu gelecek yönelimleri, SoT'nin yalnızca mevcut gecikme zorluklarını ele alma potansiyelini değil, aynı zamanda **verimli BDM dağıtımı** için daha akıllı, uyarlanabilir ve sağlam bir çerçeveye dönüşme potansiyelini de vurgulamaktadır.
+
