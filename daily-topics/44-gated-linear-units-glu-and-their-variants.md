@@ -397,3 +397,4 @@ if __name__ == "__main__":
 ## 6. Sonuç
 
 Gated Linear Units (GLU) ve SwiGLU ile GeGLU gibi modern varyantları, özellikle büyük dil modelleri bağlamında, daha etkileyici ve verimli sinir ağı mimarileri tasarlamada önemli bir ilerlemeyi temsil etmektedir. Öğrenilmiş bir geçitleme mekanizması ekleyerek, GLU katmanları, modellerin bilgiyi dinamik olarak filtrelemesine ve işlemesine olanak tanıyarak gelişmiş temsil gücü ve performans artışı sağlar. Daha basit aktivasyon fonksiyonlarına kıyasla ek parametreler ve hesaplama maliyeti getirseler de, son teknoloji modellerden elde edilen ampirik kanıtlar, bu ödünleşmelerin model kalitesindeki önemli kazanımlarla fazlasıyla haklı çıkarıldığını güçlü bir şekilde göstermektedir. Alan model ölçeğinin ve yeteneğinin sınırlarını zorlamaya devam ettikçe, geçitleme mekanizmaları daha güçlü ve akıllı yapay zeka sistemleri arayışında temel bir bileşen olmaya devam edecektir.
+
