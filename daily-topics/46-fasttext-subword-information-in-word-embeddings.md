@@ -431,3 +431,4 @@ Kelimeleri atomik birimler olarak ele almak yerine, kelime yapısından anlam ç
 
 Özetle, FastText, modern NLP araç setinde vazgeçilmez bir araç olarak konumunu sağlamlaştırmış, geniş bir dil ve uygulama alanı yelpazesinde etkili bir şekilde genelleşen anlamlı kelime temsilleri elde etmek için güçlü ve pragmatik bir çözüm sunmaktadır. Katkısı, kelime gömülme modellerinin sınırlarını, insan dilinin daha incelikli ve dirençli bir anlayışına doğru itmektir.
 
+
