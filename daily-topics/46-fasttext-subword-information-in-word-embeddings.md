@@ -435,3 +435,4 @@ Kelimeleri atomik birimler olarak ele almak yerine, kelime yapısından anlam ç
 
 
 
+
