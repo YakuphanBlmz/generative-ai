@@ -406,3 +406,4 @@ if __name__ == "__main__":
 ```
 ## 5. Sonuç
 Difüzyon Modelleri, görüntü üretimi için dönüştürücü bir teknoloji olarak ortaya çıkmış ve görüntü tamamlama görevine adaptasyonları önemli bir ilerlemeyi temsil etmektedir. Karmaşık veri dağılımlarını öğrenme ve yinelemeli gürültü giderme yeteneklerini kullanarak, DM'ler eksik görüntü bölgeleri için son derece gerçekçi, anlamsal olarak tutarlı ve çeşitli tamamlamalar üretebilir. Hesaplama maliyeti ve tüm senaryolarda mükemmel tutarlılık ile ilgili zorluklar devam etse de, Latent Difüzyon ve sınıflandırıcısız yönlendirme gibi teknikler verimliliği ve kaliteyi önemli ölçüde artırmıştır. Araştırmalar ilerlemeye devam ettikçe, difüzyon modelleri, görsel içerik manipülasyonunda eşi benzeri görülmemiş kontrol ve yaratıcı özgürlük sunarak, yeni nesil görüntü düzenleme ve restorasyon araçlarının temel taşı olmaya adaydır.
+
