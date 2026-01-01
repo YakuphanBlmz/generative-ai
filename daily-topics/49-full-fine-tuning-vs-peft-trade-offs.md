@@ -264,3 +264,4 @@ Tam ince ayar ile Parametre Verimli İnce Ayar (PEFT) arasındaki seçim, mevcut
 
 
 
+
