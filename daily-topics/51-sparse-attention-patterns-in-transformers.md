@@ -301,3 +301,4 @@ Seyrek dikkat, ifade gücünde potansiyel kayıp ve artan uygulama karmaşıklı
 Daha sofistike, uyarlanabilir ve donanım açısından verimli seyrek dikkat mekanizmaları tasarlamaya yönelik devam eden yenilikler, yeni nesil büyük dil modelleri ve diğer Transformer tabanlı sistemler için çok önemli olacaktır. Veri modaliteleri zenginleştikçe ve dizi uzunlukları artmaya devam ettikçe, seyrek dikkat, bu güçlü derin öğrenme modellerinin karmaşık, uzun menzilli bağlamsal bilgileri anlama ve üretme konusunda başarabileceklerinin sınırlarını zorlayan bir köşe taşı tekniği olmaya devam edecektir.
 
 
+
