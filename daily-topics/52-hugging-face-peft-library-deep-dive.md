@@ -406,3 +406,4 @@ Devasa önceden eğitilmiş modellerin ortaya çıkışı, yapay zeka alanına e
 
 Temel modeller boyut ve yetenek olarak büyümeye devam ettikçe, PEFT metodlarının önemi daha da artacaktır. Bunlar, büyük modellerin muazzam gücünü gerçek dünya uygulamalarının pratik kısıtlamalarıyla dengeleyen sürdürülebilir bir yol sunmaktadır. Hugging Face PEFT kütüphanesi, bu vizyonu somutlaştırarak, üretken yapay zekanın tüm potansiyelini daha geniş bir topluluğun kullanmasını sağlamaktadır.
 
+
