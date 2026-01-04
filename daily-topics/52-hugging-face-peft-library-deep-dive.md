@@ -405,3 +405,4 @@ Devasa önceden eğitilmiş modellerin ortaya çıkışı, yapay zeka alanına e
 **Hugging Face PEFT kütüphanesi** bu devrimin temel taşıdır. Sezgisel tasarımı, **Transformers** ekosistemiyle sorunsuz entegrasyonu ve çeşitli PEFT teknikleri için kapsamlı desteği, onu araştırmacılar ve uygulayıcılar için vazgeçilmez bir araç haline getirmektedir. Kütüphane, bu gelişmiş metodları uygulamanın karmaşıklıklarını soyutlayarak, kullanıcıların GPT, Llama ve T5 gibi modelleri sadece birkaç satır kodla belirli görevlere verimli bir şekilde uyarlamalarına olanak tanır.
 
 Temel modeller boyut ve yetenek olarak büyümeye devam ettikçe, PEFT metodlarının önemi daha da artacaktır. Bunlar, büyük modellerin muazzam gücünü gerçek dünya uygulamalarının pratik kısıtlamalarıyla dengeleyen sürdürülebilir bir yol sunmaktadır. Hugging Face PEFT kütüphanesi, bu vizyonu somutlaştırarak, üretken yapay zekanın tüm potansiyelini daha geniş bir topluluğun kullanmasını sağlamaktadır.
+
