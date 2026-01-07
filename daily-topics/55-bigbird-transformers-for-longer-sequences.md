@@ -289,3 +289,4 @@ print(f"Oluşturulan BigBird benzeri seyrek dikkat maskesinin şekli: {attention
 
 
 
+
