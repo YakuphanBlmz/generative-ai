@@ -279,3 +279,4 @@ print(f"Örnek Üreteç Kaybı: {g_loss_val.numpy():.4f}")
 Ancak, GAN'ların pratik uygulaması, bu dengeye doğrudan yakınsamayı engelleyen zorluklarla doludur. Mod çökmesi, eğitim kararsızlığı ve gradyan sorunları, oynanan karmaşık, dışbükey olmayan oyunun doğrudan sonuçlarıdır. Bu zorluklara rağmen, yenilikçi amaç fonksiyonları (örneğin, WGAN'lar), mimari iyileştirmeler (örneğin, StyleGAN'lar) ve normalleştirme teknikleri aracılığıyla yapılan önemli ilerlemeler, GAN'ların pratik performansını teorik ideallerine yaklaştırmıştır.
 
 Kararlı ve verimli Nash Dengesi yaklaşımının peşinde koşmak, Üretken Yapay Zeka'da canlı bir araştırma alanı olmaya devam etmekte ve son derece gerçekçi ve çeşitli sentetik veriler üretebilen giderek daha sofistike modellerin geliştirilmesini sağlamaktadır. Oyun teorik temelini anlamak, GAN teknolojisinin sürekli evriminde sorunları teşhis etmek ve sağlam çözümler geliştirmek için esastır.
+
