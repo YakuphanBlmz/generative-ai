@@ -280,3 +280,4 @@ Ancak, GAN'ların pratik uygulaması, bu dengeye doğrudan yakınsamayı engelle
 
 Kararlı ve verimli Nash Dengesi yaklaşımının peşinde koşmak, Üretken Yapay Zeka'da canlı bir araştırma alanı olmaya devam etmekte ve son derece gerçekçi ve çeşitli sentetik veriler üretebilen giderek daha sofistike modellerin geliştirilmesini sağlamaktadır. Oyun teorik temelini anlamak, GAN teknolojisinin sürekli evriminde sorunları teşhis etmek ve sağlam çözümler geliştirmek için esastır.
 
+
