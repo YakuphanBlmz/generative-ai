@@ -395,3 +395,4 @@ GoT, gelişmiş problem çözme yetenekleri, iyileştirilmiş sağlamlık ve dah
 
 
 
+
