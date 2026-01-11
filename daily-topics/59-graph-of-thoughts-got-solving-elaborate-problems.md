@@ -394,3 +394,4 @@ Düşünce Grafiği (GoT) çerçevesi, karmaşık problem çözümü için büy�
 GoT, gelişmiş problem çözme yetenekleri, iyileştirilmiş sağlamlık ve daha fazla açıklanabilirlik açısından zorlayıcı avantajlar sunsa da, tam potansiyeli henüz gerçekleşmemiştir. Hesaplama maliyeti, grafik yönetiminin karmaşıklığı, istem mühendisliğinin incelikleri ve sağlam değerlendirme metriklerine duyulan ihtiyaçla ilgili zorluklar, aktif araştırma alanları olmaya devam etmektedir. Bununla birlikte, GoT paradigması, çağımızın büyük zorluklarının üstesinden gelebilecek daha akıllı, uyarlanabilir ve özerk yapay zeka sistemleri geliştirmek için kritik bir temel oluşturarak, LLM'lerin karmaşık akıl yürütme görevlerinde neler başarabileceğinin sınırlarını zorlamaktadır. GoT'un sürekli gelişimi ve iyileştirilmesi, yapay genel zekada yeni sınırlar açma vaadini taşımaktadır.
 
 
+
