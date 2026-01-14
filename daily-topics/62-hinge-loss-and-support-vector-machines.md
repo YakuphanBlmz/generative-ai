@@ -249,3 +249,4 @@ Menteşe Kaybı, **Destek Vektör Makinelerinin**, özellikle yumuşak marj form
 
 
 
+
