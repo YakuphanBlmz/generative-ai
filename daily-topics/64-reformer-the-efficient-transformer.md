@@ -343,3 +343,4 @@ Reformer'ın katkıları, yalnızca Transformer'ları daha hızlı ve daha belle
 *   Kitaev, N., Kaiser, Ł., & Levskaya, A. (2020). Reformer: The Efficient Transformer. *International Conference on Learning Representations (ICLR)*.
 *   Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). Attention Is All You Need. *Advances in Neural Information Processing Systems (NeurIPS)*.
 *   Gomez, A. N., Ren, M., Urtasun, R., & Hinton, G. (2017). The Reversible Residual Network: Backpropagation Without Storing Activations. *Advances in Neural Information Processing Systems (NeurIPS)*.
+
