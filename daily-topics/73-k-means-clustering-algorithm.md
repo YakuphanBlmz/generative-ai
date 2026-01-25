@@ -336,3 +336,4 @@ K-Ortalama kümeleme algoritması, denetimsiz makine öğreniminde basitliği, v
 
 
 
+
