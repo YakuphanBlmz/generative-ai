@@ -341,3 +341,4 @@ Perpleksite, dil modellerinin değerlendirilmesinde bir köşe taşı metriğidi
 Ancak, perpleksitenin sınırlamalarını tanımak da aynı derecede önemlidir. İçsel değerlendirme için mükemmel olsa da, birçok gerçek dünya uygulaması için kritik olan anlamsal nüansları, mantıksal tutarlılığı veya dil üretiminin yaratıcı yönlerini doğası gereği yakalamaz. Jetonlaştırma stratejileri gibi faktörler de değerini önemli ölçüde etkileyebilir, bu da karşılaştırma yaparken dikkatli olmayı gerektirir. Bu nedenle, perpleksite temel dil modeli geliştirme için vazgeçilmez bir araç olmaya devam ederken, bütüncül bir değerlendirme stratejisi genellikle bir modelin çeşitli uygulamalardaki faydasını ve kalitesini tam olarak belirlemek için onu bir dizi dışsal, göreve özel metrikle (insan yargısı dahil) birleştirir. Perpleksiteyi anlamak, üretken dil modellerinin bilimi ve mühendisliğiyle uğraşan herkes için temeldir.
 
 
+
