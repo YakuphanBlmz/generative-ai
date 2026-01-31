@@ -360,3 +360,4 @@ Sonuç olarak, yönerge ayarlaması sadece teknik bir iyileştirme değildir; BD
 
 
 
+
