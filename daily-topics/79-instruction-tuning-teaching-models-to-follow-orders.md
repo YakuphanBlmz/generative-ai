@@ -358,3 +358,4 @@ Yönerge ayarlı modellerin sayısız görevde genelleme yapma, karmaşık komut
 
 Sonuç olarak, yönerge ayarlaması sadece teknik bir iyileştirme değildir; BDM'leri yalnızca dil tahmin edicileri rolünden çıkararak, gerçekten "talimatları takip etmelerini" ve insan-yapay zeka işbirliğinde paha biçilmez, sezgisel ortaklar olarak hizmet etmelerini sağlayan temel bir paradigma değişikliğidir. Yapay zeka etkileşiminin geleceği, modelleri talimatlarımızı anlama ve bunlara göre hareket etme konusunda ne kadar etkili bir şekilde öğretebileceğimizdeki daha fazla ilerlemeyle şüphesiz şekillenecektir.
 
+
