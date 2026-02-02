@@ -319,3 +319,4 @@ Bu mimari yeniliklerin bir sonucu olarak, Swin Transformer, geniş bir görsel k
 3.  Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). Attention Is All Need. *Advances in neural information processing systems*, 30.
 
 
+
