@@ -293,3 +293,4 @@ K-Ortalama kümeleme algoritması, etiketlenmemiş veri kümelerini keşfetmek v
 
 
 
+
