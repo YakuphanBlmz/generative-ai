@@ -244,3 +244,4 @@ EYT, böyle bir yaklaşık ağın *varlığını* doğrulamakla birlikte, **öğ
 
 Özünde, Evrensel Yaklaşım Teoremi "neden"i - neden sinir ağlarının karmaşık fonksiyon yaklaşımı için keşfedilmeye değer olduğunu - sağlarken, derin öğrenme, optimizasyon ve mimari tasarım alanındaki devam eden araştırmalar, pratik, gerçek dünya uygulamalarında "nasıl" ve "ne kadar iyi" sorularını ele almaya devam etmektedir. Mirası, makine öğreniminin tüm alanı ve özellikle modern yapay zekada tanık olunan gelişmiş yetenekler için kritik bir teorik temel taşı olarak yaşamaya devam etmektedir.
 
+
