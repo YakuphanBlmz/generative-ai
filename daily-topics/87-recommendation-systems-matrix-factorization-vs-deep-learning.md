@@ -408,3 +408,4 @@ Derin öğrenme modelleri genellikle daha yüksek **hesaplama maliyetleri** ve d
 
 
 
+
