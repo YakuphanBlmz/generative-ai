@@ -282,3 +282,4 @@ if __name__ == '__main__':
 ### 6. Kaynaklar
 *   Zhang, B., & Sennrich, R. (2019). Root Mean Square Layer Normalization. *Advances in Neural Information Processing Systems, 32*. [Makale Bağlantısı (arXiv)](https://arxiv.org/abs/1907.09292)
 *   Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). Attention Is All You Need. *Advances in Neural Information Processing Systems, 30*. [Makale Bağlantısı (arXiv)](https://arxiv.org/abs/1706.03762)
+
