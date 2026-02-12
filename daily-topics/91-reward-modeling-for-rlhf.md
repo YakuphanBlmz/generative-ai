@@ -320,3 +320,4 @@ print(f"Yanıt B için Ödül: {score_B.item():.4f}")
 
 
 
+
