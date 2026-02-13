@@ -346,3 +346,4 @@ MobileNet, verimli derin öğrenme arayışında anıtsal bir adımı temsil etm
 
 MobileNet'in etkisi teorik gelişmelerin çok ötesine uzanır; sofistike bilgisayar görüşü görevlerinin kenar cihazlarda yaygın olarak benimsenmesini pratik olarak mümkün kılmış, mobil artırılmış gerçeklikten otonom sistemlere kadar birçok alanda yeniliği teşvik etmiştir. Yaygın AI'ya olan talep artmaya devam ettikçe, MobileNet ve savunduğu ilkeler, çığır açan araştırma ile gerçek dünya, kaynak kısıtlı dağıtımlar arasındaki boşluğu doldurmada kritik olmaya devam edecek, Generatif AI ve ötesinde önemli bir gelişme olarak mirasını pekiştirecektir.
 
+
