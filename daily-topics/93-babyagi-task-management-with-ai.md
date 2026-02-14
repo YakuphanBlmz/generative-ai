@@ -270,3 +270,4 @@ BabyAGI, basit sorgu-yanıt sistemlerinin ötesine geçerek sürekli, kendi kend
 BabyAGI'nin temel gücü, yinelemeli doğasında ve görev oluşturma, yürütme ve önceliklendirme gibi bilişsel işlevleri yerine getirmek için bir LLM'ye dayanmasında yatmaktadır. Bu minimalist yaklaşım, özellikle sıralı karar alma ve dinamik adaptasyon gerektiren senaryolarda, daha genelleştirilmiş yapay zeka davranışlarını keşfetmek için yeni yollar açmıştır. BabyAGI hala deneysel bir kavram olsa da, sürekli görev yönetiminin temel ilkeleri, sürekli bilişsel çaba ve adaptasyon gerektiren gerçek dünya sorunlarını ele alabilen daha sofistike ajanlar geliştirmek için sağlam bir çerçeve sunmaktadır. Bu alandaki gelecekteki gelişmeler muhtemelen sağlamlığını artırmaya, harici araçlarla entegrasyona ve belirsiz hedefleri ve karmaşık ortamları ele alma yeteneğini geliştirmeye odaklanacaktır.
 
 
+
