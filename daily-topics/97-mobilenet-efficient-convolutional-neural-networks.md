@@ -255,3 +255,4 @@ MobileNet, verimli sinir ağlarının araştırma ve geliştirilmesini önemli �
 
 ## 6. Sonuç
 MobileNet, verimli derin öğrenme alanında dönüm noktası niteliğinde bir başarıyı temsil etmektedir. **Derinlik odaklı ayrılabilir evrişimleri** tanıtarak ve **genişlik** ile **çözünürlük çarpanları** sağlayarak, kaynak kısıtlı cihazlara dağıtım için uygun, hafif, yüksek performanslı evrişimsel sinir ağları oluşturmak için güçlü bir çerçeve sunar. Etkisi sadece cihaz içi yapay zekayı etkinleştirmenin ötesine geçer; model karmaşıklığını pratik dağıtım kısıtlamalarıyla dengelemeye odaklanan yeni bir araştırma dönemini teşvik etmiş ve yüksek doğruluğun her zaman devasa hesaplama kaynakları gerektirmediğini göstermiştir. MobileNet, kenar yapay zeka ve gerçek zamanlı bilgisayar görüşü uygulamaları üzerinde çalışan herkes için temel bir model olmaya devam etmektedir.
+
