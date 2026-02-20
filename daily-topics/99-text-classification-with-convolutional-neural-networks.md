@@ -339,3 +339,4 @@ Evrişimli Sinir Ağları, çok çeşitli metin sınıflandırma görevleri içi
 
 Hızla gelişen **Üretken Yapay Zeka** ortamında, ESA'larla oluşturulanlar gibi sağlam metin sınıflandırma modelleri vazgeçilmezdir. Üretilen içeriğin güvenliğini ve kalitesini sağlamak, stilistik analiz yapmak veya hatta kullanıcı istemlerinin ardındaki amacı kategorize etmek için kullanılabilirler. Transformer'lar gibi daha karmaşık mimariler uzun menzilli bağımlılıklarda üstün olsa da, ESA'lar birçok yaygın metin sınıflandırma zorluğu için daha basit, genellikle daha hızlı ve hala yüksek performanslı bir çözüm sunarak hem araştırma hem de endüstriyel uygulamalar için değerli bir araçtır.
 
+
