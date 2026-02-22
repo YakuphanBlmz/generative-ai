@@ -276,3 +276,4 @@ LlamaIndex, Üretken Yapay Zeka ortamında önemli bir yenilik olarak durmakta v
 
 Kapsamlı veri bağlayıcıları paketinden çeşitli indeksleme stratejilerine, güçlü sorgu motorlarından gelişmiş aracı tabanlı yeteneklerine kadar LlamaIndex, LLM'leri gerçek dünya veri ortamlarına entegre etmeyle ilişkili karmaşık mühendislik zorluklarını basitleştirir. Kurumsal düzeyde LLM çözümlerine olan talep artmaya devam ettikçe, LlamaIndex'in veri farkındalığına sahip yapay zekaya erişimi demokratikleştirme rolü giderek daha hayati hale gelmekte ve sektörler arası yeni nesil akıllı uygulamaların yolunu açmaktadır. Aktif olarak geliştirilen bir proje olup, entegrasyonlarını ve özelliklerini sürekli genişleterek LLM uygulama geliştirmenin ön saflarında yerini korumaktadır.
 
+
