@@ -480,3 +480,4 @@ Metin özetleme alanı, çıkarımsal ve soyutlayıcı yaklaşımlar arasındaki
 
 
 
+
