@@ -293,3 +293,4 @@ class SimplifiedBlockAllocator:
 <a name="6-sonuç"></a>
 ## 6. Sonuç
 PagedAttention ve vLLM, Büyük Dil Modeli sunumunun verimliliğinde önemli bir ilerlemeyi temsil etmektedir. PagedAttention, sanal bellekten ilham alan bir sayfalama mekanizması aracılığıyla KV önbellek yönetimini yeniden tasarlayarak bellek parçalanmasını etkili bir şekilde ortadan kaldırır ve KV önbellek durumlarının verimli bir şekilde paylaşılmasını sağlar. Bu yenilik, vLLM'nin sürekli yığınlama stratejisi ve yüksek düzeyde optimize edilmiş CUDA çekirdekleriyle birleştiğinde, LLM çıkarımı için önemli ölçüde daha yüksek verim ve daha düşük gecikme sağlar. LLM'ler giderek daha yaygın hale geldikçe, PagedAttention ve vLLM gibi çözümler, dağıtımlarını ekonomik olarak uygulanabilir ve performans açısından optimize edilmiş hale getirmek için kritik öneme sahiptir ve daha geniş erişim ve daha duyarlı yapay zeka destekli uygulamalar sağlar.
+
