@@ -209,3 +209,4 @@ Katman Normalizasyonu, Büyük Dil Modellerinin başarılı geliştirilmesi ve d
 ## 6. Kaynaklar
 *   Ba, J. L., Kiros, J. R., & Hinton, G. E. (2016). *Layer Normalization*. arXiv preprint arXiv:1607.06450.
 *   Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). *Attention Is All You Need*. Advances in neural information processing systems, 30.
+
