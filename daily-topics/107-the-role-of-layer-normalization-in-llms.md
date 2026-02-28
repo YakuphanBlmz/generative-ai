@@ -211,3 +211,4 @@ Katman Normalizasyonu, Büyük Dil Modellerinin başarılı geliştirilmesi ve d
 *   Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). *Attention Is All You Need*. Advances in neural information processing systems, 30.
 
 
+
