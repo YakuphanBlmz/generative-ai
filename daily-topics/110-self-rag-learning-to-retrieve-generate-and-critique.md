@@ -379,3 +379,4 @@ run_self_rag_pipeline("Almanya'nın başkenti neresidir?")
 ## 6. Sonuç
 
 Self-RAG, Erişimle Desteklenmiş Üretim modellerinin evriminde önemli bir ileri adımı temsil etmektedir. Dil modeli içine bir kendi kendini eleştiri mekanizması yerleştirerek, LLM'leri sadece bilgi almak ve üretmekle kalmayıp, aynı zamanda eylemlerinin kalitesi üzerine düşünmeye de olanak tanır. Bu meta-öğrenme yeteneği, daha doğru, sadık ve yorumlanabilir çıktılara yol açarak halüsinasyon ve gerçek tutarsızlığı gibi yaygın sorunları önemli ölçüde azaltır. Eğitim karmaşıklığı ve veri açıklama konularında zorluklar sunsa da, Self-RAG'in güvenilir ve bağlamsal olarak farkında olan yapay zeka sistemleri üretmedeki avantajları yadsınamazdır. Araştırmalar metodolojilerini geliştirmeye ve sınırlılıklarını gidermeye devam ettikçe, Self-RAG'in çeşitli alanlarda sağlam ve güvenilir üretken yapay zeka uygulamalarının geliştirilmesinde bir köşe taşı olması beklenmektedir.
+
