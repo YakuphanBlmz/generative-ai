@@ -308,3 +308,4 @@ for adim in range(toplam_egitim_adim):
 
 
 
+
