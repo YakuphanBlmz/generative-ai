@@ -305,3 +305,4 @@ for adim in range(toplam_egitim_adim):
 **Warmup ile Kosinüs Azaltma** öğrenme oranı zamanlayıcısı, derin sinir ağlarının eğitimini optimize etmek için güçlü ve yaygın olarak benimsenen bir stratejiyi temsil etmektedir. Nazik bir doğrusal warmup aşaması ile pürüzsüz bir kosinüs azaltmayı titizlikle birleştirerek, başlangıç eğitim kararsızlığı ve eğitim yaşam döngüsü boyunca uyarlanabilir öğrenme oranlarına duyulan ihtiyaçla ilişkili kritik zorlukları ele alır. Bu sofistike yaklaşım, modellerin istikrarlı başlangıç yakınsamasından, kayıp yüzeyinin verimli keşfinden ve optimal çözümlere doğru hassas ince ayarlardan faydalanmasını sağlar. Başta Transformer'lar gibi karmaşık mimariler olmak üzere çeşitli alanlardaki kanıtlanmış etkinliği, modern derin öğrenme uygulayıcısının araç kutusunda temel bir araç olarak konumunu pekiştirerek, daha sağlam, performanslı ve genellenebilir yapay zeka modellerinin geliştirilmesine önemli ölçüde katkıda bulunur.
 
 
+
