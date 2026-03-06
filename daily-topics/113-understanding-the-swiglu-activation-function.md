@@ -224,3 +224,4 @@ SwiGLU aktivasyon fonksiyonu, özellikle **Üretken Yapay Zeka**'da yaygın olan
 
 
 
+
