@@ -223,3 +223,4 @@ print(f"Çıktı şekli: {output_tensor.shape}")
 SwiGLU aktivasyon fonksiyonu, özellikle **Üretken Yapay Zeka**'da yaygın olan Transformer tabanlı mimariler için derin sinir ağlarının tasarımında önemli bir ilerlemeyi temsil etmektedir. Swish fonksiyonunun düzgün, monotonik olmayan özelliklerini Kapılı Doğrusal Birim'in uyarlanabilir bilgi kapılamasıyla birleştirerek, SwiGLU modellerin daha karmaşık temsiller öğrenmesini, üstün performans elde etmesini ve eğitim kararlılığını sürdürmesini sağlar. Daha basit aktivasyonlara kıyasla hesaplama karmaşıklığında ve parametre sayısında marjinal bir artışa neden olsa da, son teknoloji LLM'lerden elde edilen ampirik kanıtlar, bu ödünleşmelerin ezici bir şekilde olumlu olduğunu açıkça göstermektedir. Üretken yapay zeka mümkün olanın sınırlarını zorlamaya devam ettikçe, SwiGLU gibi sofistike bileşenler, daha güçlü ve verimli modeller arayışında vazgeçilmez araçlar olmaya devam edecektir.
 
 
+
