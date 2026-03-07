@@ -485,3 +485,4 @@ Aloha sisteminin geliştirilmesi, zaten önemli yetenekler sunsa da, gelecekteki
 7.  **Uygulamaya Özel Uyarlamalar:** Aloha'nın eğitim, yardımcı robotik, sanat veya özel endüstriyel görevler gibi çeşitli alanlar için belirli uyarlamalarını keşfetmek ve geliştirmek, çok yönlülüğünü gösterecek ve yeni zorlukları ve fırsatları ortaya çıkaracaktır.
 
 Bu yönleri takip ederek, Aloha projesi gelişmeye devam edebilir, erişilebilir ve etkili iki ellikli uzaktan kontrolün sınırlarını zorlayabilir ve daha geniş robotik topluluğuna önemli katkılarda bulunabilir.
+
