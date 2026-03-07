@@ -486,3 +486,4 @@ Aloha sisteminin geliştirilmesi, zaten önemli yetenekler sunsa da, gelecekteki
 
 Bu yönleri takip ederek, Aloha projesi gelişmeye devam edebilir, erişilebilir ve etkili iki ellikli uzaktan kontrolün sınırlarını zorlayabilir ve daha geniş robotik topluluğuna önemli katkılarda bulunabilir.
 
+
