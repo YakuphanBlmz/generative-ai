@@ -233,3 +233,4 @@ EfficientNet, nesne algılamadan anlamsal segmentasyona kadar çeşitli alanlard
 
 
 
+
