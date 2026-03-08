@@ -230,3 +230,4 @@ EfficientNet'ten çıkarılacak temel dersler şunlardır:
 *   Yüksek verimli yapı taşlarını ve temel mimarileri bulmada **Nöral Mimari Arama (NAS)**'ın gücü.
 
 EfficientNet, nesne algılamadan anlamsal segmentasyona kadar çeşitli alanlarda daha verimli mimarilere, daha iyi ölçeklendirme tekniklerine ve uygulamalara odaklanan sayısız sonraki çalışmaya ilham vererek, verimli model tasarımında sonraki araştırmaları derinden etkiledi. Metodolojileri, yüksek performanslı, kaynak verimli derin öğrenme modelleri geliştirmek için bir köşe taşı olmaya devam etmekte, gelişmiş yapay zekayı daha erişilebilir ve sürdürülebilir kılmaktadır.
+
