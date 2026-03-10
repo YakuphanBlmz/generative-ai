@@ -200,3 +200,4 @@ Bu zorluklara rağmen, KlinikBERT inkar edilemez bir şekilde sağlık hizmetler
 *   Alsentzer, E., Lo, K., McDermott, M., McClellan, M., Palmer, L., Alemi, F., ... & Sarawagi, S. (2019). Publicly Available Clinical BERT Embeddings. *Proceedings of the 2nd Clinical Natural Language Processing Workshop*.
 *   Johnson, A. E., Pollard, T. J., Shen, L., Li-Wei, H. L., Feng, M., Ghassemi, M., ... & Mark, R. G. (2016). MIMIC-III, a freely accessible critical care database. *Scientific Data, 3*, 160035.
 
+
