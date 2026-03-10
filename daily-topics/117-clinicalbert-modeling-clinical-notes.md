@@ -199,3 +199,4 @@ Bu zorluklara rağmen, KlinikBERT inkar edilemez bir şekilde sağlık hizmetler
 *   Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. *Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)*, 4171-4186.
 *   Alsentzer, E., Lo, K., McDermott, M., McClellan, M., Palmer, L., Alemi, F., ... & Sarawagi, S. (2019). Publicly Available Clinical BERT Embeddings. *Proceedings of the 2nd Clinical Natural Language Processing Workshop*.
 *   Johnson, A. E., Pollard, T. J., Shen, L., Li-Wei, H. L., Feng, M., Ghassemi, M., ... & Mark, R. G. (2016). MIMIC-III, a freely accessible critical care database. *Scientific Data, 3*, 160035.
+
