@@ -282,3 +282,4 @@ print(f"Çıktı tahmini şekli: {output_forecast.shape}") # (batch_size, foreca
 ## 5. Sonuç
 N-BEATS, zaman serisi tahmini alanında önemli bir ilerlemeyi temsil etmekte olup, yüksek tahmin doğruluğunu yorumlanabilirlik potansiyeliyle birleştiren güçlü bir derin öğrenme mimarisi sunmaktadır. Temel genişlemeden ve çift artık bağlantılı yeni bir yığın mimarisinden yararlanarak, N-BEATS karmaşık zaman serisi örüntülerini etkin bir şekilde tahmin edilebilir ve geri tahmin edilebilir bileşenlere ayırır. Karmaşık tekrarlayan veya evrişimli katmanlara ihtiyaç duymadan, yalnızca MLP'lerle çalışma yeteneği, mimarisinin zarafetine ve verimliliğine katkıda bulunur. İster maksimum performans için genel konfigürasyonunda ister gelişmiş anlama için yorumlanabilir konfigürasyonunda dağıtılsın, N-BEATS, çok çeşitli zaman serisi tahmin zorlukları için sağlam ve çok yönlü bir çözüm sunarak daha güvenilir ve açıklanabilir tahmine dayalı modellerin yolunu açmaktadır.
 
+
