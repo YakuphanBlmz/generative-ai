@@ -206,3 +206,4 @@ CLIP, yapay zeka alanında, özellikle doğal dil ile görsel anlayış arasınd
 
 
 
+
