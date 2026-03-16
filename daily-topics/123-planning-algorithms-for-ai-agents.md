@@ -441,3 +441,4 @@ Planlama algoritmaları, zeki otonom sistemlerin vazgeçilmez bir bileşenidir v
 *   Russell, S. J., & Norvig, P. (2010). *Artificial Intelligence: A Modern Approach* (3rd ed.). Prentice Hall.
 *   Ghallab, M., Nau, D., & Traverso, P. (2004). *Automated Planning: Theory and Practice*. Morgan Kaufmann.
 *   Kambhampati, S. (2000). Planning Graph Heuristics for Cost-Based Planning. *Artificial Intelligence*, 116(1-2), 1-36.
+
