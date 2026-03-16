@@ -443,3 +443,4 @@ Planlama algoritmaları, zeki otonom sistemlerin vazgeçilmez bir bileşenidir v
 *   Kambhampati, S. (2000). Planning Graph Heuristics for Cost-Based Planning. *Artificial Intelligence*, 116(1-2), 1-36.
 
 
+
