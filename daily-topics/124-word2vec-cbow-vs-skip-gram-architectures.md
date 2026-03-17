@@ -448,3 +448,4 @@ CBOW ve Skip-Gram arasındaki seçim mutlak değil, eğitim verilerinin özellik
 
 
 
+
