@@ -447,3 +447,4 @@ CBOW ve Skip-Gram arasındaki seçim mutlak değil, eğitim verilerinin özellik
 *   Mikolov, T., Sutskever, I., Chen, K., Corrado, G. S., & Dean, J. (2013). *Distributed representations of words and phrases and their compositionality*. Advances in neural information processing systems, 26.
 
 
+
