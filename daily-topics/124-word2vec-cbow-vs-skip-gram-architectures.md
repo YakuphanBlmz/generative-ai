@@ -446,3 +446,4 @@ CBOW ve Skip-Gram arasındaki seçim mutlak değil, eğitim verilerinin özellik
 *   Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). *Efficient estimation of word representations in vector space*. arXiv preprint arXiv:1301.3781.
 *   Mikolov, T., Sutskever, I., Chen, K., Corrado, G. S., & Dean, J. (2013). *Distributed representations of words and phrases and their compositionality*. Advances in neural information processing systems, 26.
 
+
