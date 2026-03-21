@@ -593,3 +593,4 @@ Hesaplama için açık **düğümler** tanımlama, paylaşılan bir **grafik dur
 
 
 
+
