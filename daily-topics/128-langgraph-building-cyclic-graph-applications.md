@@ -590,3 +590,4 @@ LangGraph, gelişmiş Üretken Yapay Zeka uygulamalarının geliştirilmesinde, 
 
 Hesaplama için açık **düğümler** tanımlama, paylaşılan bir **grafik durumu** yönetme ve **koşullu kenarlar** ile geçişleri düzenleme yeteneği, eşsiz bir esneklik ve kontrol sağlar. Bu mimari, özellikle çok turlu etkileşimler, araç kullanımı, insan-döngüde süreçler ve kendi kendini düzeltme gerektiren senaryolar için güçlüdür - hepsi gelişmiş yapay zeka ajanlarının belirleyici özellikleridir. Dahası, daha geniş LangChain ekosistemi ve **kontrol noktaları (checkpointing)** gibi özelliklerle sorunsuz entegrasyonu, sağlam, gözlemlenebilir ve ölçeklenebilir çözümler oluşturmaya katkıda bulunur. Üretken Yapay Zeka olgunlaşmaya devam ettikçe, LangGraph, LLM destekli uygulamaların neler başarabileceğini zorlayan, gerçekten akıllı ve uyarlanabilir sistemlerin oluşturulmasını kolaylaştıran temel bir araç olarak durmaktadır.
 
+
