@@ -291,3 +291,4 @@ Meta-istemleme için gelecekteki araştırma yönelimleri şunları içerir:
 
 Meta-istemleme, üretken yapay zeka ile etkileşim paradigmasında güçlü bir evrimi temsil eder; statik, insan merkezli istemlemeden, kendini yönlendirme ve kendini iyileştirmenin dinamik, yapay zeka odaklı bir sürecine doğru ilerlemektedir. Yapay zeka sistemlerinin kendi istemlerini oluşturmasını ve optimize etmesini sağlayarak, görev ayrıştırma, uyarlanabilirlik, olgusal tutarlılık ve karmaşık problem çözmede gelişmiş yeteneklerin kilidini açıyoruz. Hesaplama maliyeti, istem mühendisliği karmaşıklığı ve yorumlanabilirlik ile ilgili zorluklar devam etse de, teorik temeller ve erken uygulamalar derin bir potansiyel göstermektedir. Bu alandaki araştırmalar ilerledikçe, meta-istemleme, üretken yapay zekanın başarabileceklerinin sınırlarını zorlayarak daha otonom, sağlam ve akıllı yapay zeka ajanları oluşturmak için temel bir teknik olmaya adaydır.
 
+
