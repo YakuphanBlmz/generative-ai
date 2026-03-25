@@ -425,3 +425,4 @@ Karşıtsal öğrenme, kendi kendine denetimli öğrenmenin temel taşlarından 
 
 Bu çalışmaların her ikisi de, denetimsiz öğrenmenin çeşitli sonraki görevlerde denetimli öğrenmeyle oldukça rekabetçi, hatta bazı durumlarda onu aşan bir performans sergileyebileceğini göstermiştir. Veri artırma, mimari bileşenler, negatif örnekleme stratejileri ve kayıp fonksiyonu tasarımı hakkındaki içgörüleri, kendi kendine denetimli öğrenmedeki sonraki araştırmaları derinden etkilemiştir. Alan daha sofistike yöntemlerle gelişmeye devam ederken, SimCLR ve MoCo tarafından ortaya konan ilkeler, açık insan denetimi olmaksızın temsil öğrenimini anlamanın ve geliştirmenin merkezinde kalmaya devam etmektedir. Kuşkusuz, günümüzde mevcut olan etiketlenmemiş geniş veri okyanuslarından verimli bir şekilde öğrenebilen daha genelleştirilebilir ve sağlam yapay zeka sistemlerinin yolunu açmışlardır.
 
+
