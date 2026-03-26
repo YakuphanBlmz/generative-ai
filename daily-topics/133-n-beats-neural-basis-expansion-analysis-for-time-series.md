@@ -335,3 +335,4 @@ class NBEATS(nn.Module):
 ## 6. Sonuç
 N-BEATS, derin nöral ağların tahmin gücünü yorumlanabilirliği ve sağlamlığı destekleyen mimari öğelerle başarıyla birleştirerek zaman serisi tahmininde önemli bir ilerlemeyi temsil etmektedir. Temel genişletme ve çift artıksal yığmanın yenilikçi kullanımı, onu tek değişkenli tahmin için önde gelen bir model haline getirmiş ve genellikle en güncel sonuçlara ulaşmıştır. Hesaplama kaynakları ve hiperparametre ayarlaması açısından talepkar olsa da, karmaşık zamansal örüntüleri öğrenme ve isteğe bağlı olarak tahminleri anlamlı bileşenlere ayırma yeteneği, onu hem araştırmacılar hem de uygulayıcılar için son derece değerli bir araç haline getirmektedir. Üretken yapay zeka alanı gelişmeye devam ettikçe, N-BEATS tarafından tanıtılan ilkelerin nöral tahmin mimarilerinde daha fazla gelişmeye ilham vermesi muhtemeldir.
 
+
