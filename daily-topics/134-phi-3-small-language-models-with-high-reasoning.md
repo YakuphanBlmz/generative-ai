@@ -208,3 +208,4 @@ Phi-3 model ailesi, Üretken Yapay Zeka'nın evriminde önemli bir dönüm nokta
 
 Phi-3'ün etkileri çok geniştir. **Uç cihazlar**, akıllı telefonlar ve gömülü sistemler üzerinde güçlü yapay zekanın yaygın dağıtımının önünü açarak, özel, düşük gecikmeli ve enerji açısından verimli yeni nesil akıllı uygulamaları mümkün kılmaktadır. Ayrıca, maliyet etkinliği, geliştiriciler ve kuruluşlar için giriş engelini düşürerek, son teknoloji dil modellerine erişimi demokratikleştirmektedir. Alan olgunlaşmaya devam ettikçe, Phi-3 verimlilik ve erişilebilirlik için yeni bir standart belirleyerek, gelişmiş yapay zekanın sadece güçlü değil, aynı zamanda pratik ve evrensel olarak dağıtılabilir olduğu bir gelecek vaat etmektedir. Bu verimli, yüksek performanslı SLM'lere geçiş, şüphesiz çeşitli endüstrilerde yeniliği hızlandıracak ve yapay zekayı küresel olarak problem çözme ve yaratıcılık için daha bütünleyici ve erişilebilir bir araç haline getirecektir.
 
+
