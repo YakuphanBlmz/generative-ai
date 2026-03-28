@@ -386,3 +386,4 @@ Gaussian Karışım Modelleri, olasılıksal modelleme ve gözetimsiz öğrenmed
 
 
 
+
