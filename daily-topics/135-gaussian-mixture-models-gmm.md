@@ -383,3 +383,4 @@ print("\nGKM Bileşen Ağırlıkları (Karıştırma Katsayıları):\n", gmm.wei
 Gaussian Karışım Modelleri, olasılıksal modelleme ve gözetimsiz öğrenmede bir köşe taşı olarak durur ve yoğunluk tahmini ile yumuşak kümeleme için sağlam bir çerçeve sunar. Karmaşık veri dağılımlarını daha basit, yorumlanabilir Gauss bileşenlerinin bir kombinasyonu olarak kavramsallaştırarak, GKM'ler verilerdeki gizli yapıları ortaya çıkarmak için esnek ve güçlü bir araç sağlar. **Beklenti-Maksimizasyon (BM) algoritması**, gizli değişkenlerin varlığında parametre tahmini zorluğunu etkin bir şekilde ele alarak, GKM'leri temel veri keşfinden gelişmiş örüntü tanıma görevlerine kadar geniş bir uygulama yelpazesi için pratik hale getirir. Başlatma ve hiperparametre ayarlaması (özellikle bileşen sayısı) ile ilgili hususlar önemli olsa da, GKM'lerin olasılıksal zenginliği ve uyarlanabilirliği, yapay zeka ve veri biliminin gelişen manzarasında önemlerini sürdürmelerini sağlar.
 
 
+
