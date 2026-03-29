@@ -390,3 +390,4 @@ print("\n2. GCN katmanından sonraki çıktı özellikleri:\n", output_features_
 Öklid dışı verileri işleme yetenekleri, sosyal ve alıntı ağlarındaki **düğüm sınıflandırmasından** **ilaç keşfi** ve **öneri sistemlerine** kadar çeşitli alanlarda yeni olanaklar yaratmıştır. Büyük grafikler için **ölçeklenebilirlik** ve **aşırı düzgünleştirme** fenomeni gibi zorluklar devam etse de, sürekli araştırma ve geliştirme bu sınırlamaları aktif olarak ele almakta ve daha sağlam ve güçlü GCN varyantlarına yol açmaktadır.
 
 Üretken Yapay Zeka gelişmeye devam ettikçe, GCN'ler özellikle grafik üretimi, koşullu grafik üretimi ve karmaşık ilişkisel yapılar için temsiller öğrenme gibi görevlerde giderek daha önemli bir rol oynamaya hazırlanmaktadır. Temel katkıları, derin öğrenmeyi grafik teorisi ile entegre ederek karmaşık ağ verilerini anlama ve üretme konusundaki muazzam potansiyeli gösteren yeni bir grafik sinir ağları çağının önünü açmıştır.
+
