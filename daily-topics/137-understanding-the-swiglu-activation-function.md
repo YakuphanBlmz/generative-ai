@@ -303,3 +303,4 @@ print("SwiGLU çıktısı (ilk 5 değer):", swiglu_output[0, :5])
 
 
 
+
