@@ -178,3 +178,4 @@ AutoGen'in geleceği, daha karmaşık ajan iletişim protokolleri, kod yürütme
 AutoGen, LLM uygulamalarının geliştirilmesinde önemli bir ilerlemeyi temsil etmektedir. Çok ajanlı işbirliği için sağlam, esnek ve ölçeklenebilir bir çerçeve sağlayarak, geliştiricileri tek dönüşlü etkileşimlerin ötesine geçmeye ve karmaşık akıl yürütme, planlama ve yürütme yeteneğine sahip yapay zeka sistemleri oluşturmaya teşvik eder. Özelleştirilebilir ajanlara, sorunsuz araç entegrasyonuna ve insan gözetimine verdiği önem, onu gerçek dünya problem çözümü için büyük dil modellerinin tüm potansiyelini ortaya çıkarmaya çalışan mühendisler ve araştırmacılar için vazgeçilmez bir araç haline getirmektedir. Yapay zeka görevlerinin karmaşıklığı artmaya devam ettikçe, AutoGen'in mimari ilkeleri ve özellikleri, yeni nesil akıllı uygulamaların şekillenmesinde şüphesiz çok önemli bir rol oynayacaktır.
 
 
+
