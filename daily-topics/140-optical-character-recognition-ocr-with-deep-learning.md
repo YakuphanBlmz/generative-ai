@@ -311,3 +311,4 @@ Derin öğrenme, Optik Karakter Tanıma alanını kökten değiştirmiş, onu gi
 Modern derin öğrenme OCR sistemleri, tarihi belgeleri dijitalleştirmekten dağınık doğal sahne görüntülerinden bilgi çıkarmaya ve hatta zorlu el yazısı metinleri tanımaya kadar çeşitli görevlerde mükemmeldir. Önemli ilerlemeler kaydedilmesine rağmen, aşırı görüntü bozulması, son derece karmaşık belge düzenleri, düşük kaynaklı diller için çok dilli destek ve tespit, tanıma ve anlamsal anlayışı tek, birleşik bir çerçevede birleştiren gerçekten uçtan uca diferansiyellenebilir OCR iş akışları gibi zorlukları ele alan araştırmalar devam etmektedir. Derin öğrenme ile OCR'nin geleceği, tüm ortamlarda metinsel bilgilerle sorunsuz etkileşimi sağlayarak daha da akıllı belge işlemeyi vaat etmektedir.
 
 
+
