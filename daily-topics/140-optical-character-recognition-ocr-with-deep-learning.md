@@ -312,3 +312,4 @@ Modern derin öğrenme OCR sistemleri, tarihi belgeleri dijitalleştirmekten da�
 
 
 
+
