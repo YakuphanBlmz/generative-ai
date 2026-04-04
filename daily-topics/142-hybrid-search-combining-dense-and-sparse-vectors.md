@@ -450,3 +450,4 @@ Karşılıklı Sıra Füzyonu veya ağırlıklı puan toplama gibi tekniklerle e
 
 Bilgi sistemleri karmaşıklıkta büyümeye devam ettikçe ve kullanıcıların akıllı arama beklentileri arttıkça, hibrit arama şüphesiz bir köşe taşı teknolojisi olmaya devam edecektir. Klasik yöntemlerin açıklanabilirliğini ve kesinliğini derin öğrenme modellerinin anlamsal yeteneğiyle dengeleme yeteneği, onu sağlam, doğru ve kullanıcı merkezli bilgi erişim platformlarının yeni neslini inşa etmek için vazgeçilmez bir araç olarak konumlandırmaktadır. İleriye dönük araştırma ve geliştirme, muhtemelen daha sofistike füzyon algoritmalarına, adaptif ağırlıklandırma şemalarına ve sorgu özelliklerine ve kullanıcı geri bildirimine göre her erişim bileşeninin katkısını dinamik olarak optimize edebilen uçtan uca öğrenme yaklaşımlarına odaklanacaktır.
 
+
