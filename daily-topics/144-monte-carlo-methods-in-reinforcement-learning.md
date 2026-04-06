@@ -458,3 +458,4 @@ Ancak, Monte Carlo metotlarının da sınırlamaları vardır. Tüm bölümlerin
 
 Bu zorluklara rağmen, Monte Carlo metotları TK araç setinin önemli bir bileşeni olmaya devam etmektedir. Daha gelişmiş model-siz teknikleri anlamak için temel oluştururlar ve doğru modellerin mevcut olmadığı ortamlarda politikaları değerlendirmek için sağlam bir temel sağlarlar. Gelecekteki araştırmalar, MC metotlarını fonksiyon yaklaşımı ile birleştirerek veya hem MC hem de TD öğrenmesinin güçlü yönlerinden yararlanarak daha hızlı ve daha istikrarlı öğrenme sağlamak için hibrit algoritmalara entegre ederek iyileştirmeye devam etmektedir.
 
+
