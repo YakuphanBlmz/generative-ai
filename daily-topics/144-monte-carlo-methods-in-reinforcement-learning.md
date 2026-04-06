@@ -462,3 +462,4 @@ Bu zorluklara rağmen, Monte Carlo metotları TK araç setinin önemli bir bile�
 
 
 
+
