@@ -311,3 +311,4 @@ Araç kullanımı, Büyük Dil Modellerinin yetenekleri ve potansiyel uygulamala
 Genişletilmiş işlevsellik, doğruluk ve görev otomasyonu açısından faydaları çok büyük olmakla birlikte, araç destekli BDM'lerin pratik uygulaması, orkestrasyondaki artan karmaşıklık, potansiyel güvenlik açıkları ve harici API çağrılarıyla ilişkili doğal gecikme ve maliyetler dahil olmak üzere önemli zorluklar da getirmektedir. Bu engellerin aşılması, istem mühendisliğinde sürekli ilerlemeler, sağlam aracı çerçeveleri ve araç açıklaması, seçimi ve hata yönetimi için gelişmiş mekanizmalar gerektirecektir. Araştırma ilerledikçe, araç kullanımı gelecekteki Üretken Yapay Zeka uygulamalarının temel taşlarından biri olmaya adaydır ve BDM'leri çok çeşitli alanlarda giderek daha karmaşık sorunları çözmeye ve gelişmiş eylemler gerçekleştirmeye yetkilendirir.
 
 
+
