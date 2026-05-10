@@ -458,3 +458,4 @@ Bu iki metodoloji arasındaki optimal seçim evrensel değildir, daha ziyade ba�
 
 
 
+
