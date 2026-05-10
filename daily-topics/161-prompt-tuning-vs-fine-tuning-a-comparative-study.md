@@ -456,3 +456,4 @@ Tersine, **Prompt Ayarlama** ve PEFT akrabaları olağanüstü kaynak verimli bi
 
 Bu iki metodoloji arasındaki optimal seçim evrensel değildir, daha ziyade bağlama bağlıdır. Temel araştırmalar ve bol kaynaklara sahip son derece uzmanlaşmış, kritik uygulamalar için ince ayar tercih edilebilir. Çok sayıda göreve özgü modelin ölçeklenebilir bir şekilde dağıtılmasını, hızlı denemeler yapılmasını veya kaynak kısıtlamalarıyla çalışılmasını gerektiren üretim ortamları için, prompt ayarlama ve LoRA gibi diğer PEFT yöntemleri, LLM'lerin nasıl uyarlandığı ve dağıtıldığı konusunda önemli bir paradigma değişikliğini temsil eden cazip ve genellikle yeterli bir çözüm sunar.
 
+
