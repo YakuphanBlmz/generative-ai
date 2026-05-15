@@ -503,3 +503,4 @@ if __name__ == "__main__":
 
 ## 6. Sonuç
 **Çok kiracılı RAG uygulamaları** oluşturmak, kaynak paylaşımının ekonomik ve operasyonel faydalarını veri izolasyonu, güvenlik ve performansın kritik gereksinimleriyle dengeleyen sofistike bir mühendislik zorluğu sunar. Mimari deseni (paylaşımlı dizin, ayrı dizinler veya hibrit) dikkatlice seçerek, sağlam veri işleme, geri getirme ve üretim mekanizmaları uygulayarak ve güvenlik ile gözlemlenebilirliği önceliklendirerek, kuruluşlar farklı müşteri tabanlarına hitap eden ölçeklenebilir ve verimli RAG çözümlerini başarıyla dağıtabilirler. Desen seçimi, belirli iş ihtiyaçlarına, güvenlik duruşlarına ve kaynak kısıtlamalarına bağlıdır, bu da tasarım ve uygulamaya düşünceli ve stratejik bir yaklaşım gerektirir.
+
