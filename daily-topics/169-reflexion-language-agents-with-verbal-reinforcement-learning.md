@@ -445,3 +445,4 @@ else:
 ### 7. Sonuç
 Reflexion, sağlam ve uyarlanabilir dil ajanlarının geliştirilmesinde önemli bir adımı temsil etmektedir. **Sözel pekiştirmeli öğrenmeyi** ve **yinelemeli öz-yansıtmayı** entegre ederek, BDM tabanlı ajanları hatalarından öğrenmeye, stratejilerini iyileştirmeye ve tek geçişli istemlerin doğal sınırlamalarının çoğunun üstesinden gelmeye teşvik eder. Bu paradigma, ajanların kendi performanslarını eleştirmek ve iyileştirme için eyleme geçirilebilir içgörüler üretmek için dilin ifade gücünü kullanabileceği sürekli bir öğrenme döngüsünü teşvik eder. Hesaplama maliyeti ve yansıtma kalitesiyle ilgili zorluklar devam etse de, Reflexion'ın karmaşık görevler için daha özerk, akıllı ve esnek yapay zeka sistemleri oluşturma vaadi çok büyüktür ve gerçekten kendi kendini geliştiren ajanlara giden yolu açmaktadır.
 
+
