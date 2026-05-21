@@ -339,3 +339,4 @@ LoRA'nın azaltılmış VRAM kullanımı, daha hızlı eğitim, kompakt kontrol 
 *   Hugging Face PEFT Kütüphanesi Dokümantasyonu: [https://huggingface.co/docs/peft/index](https://huggingface.co/docs/peft/index)
 *   Hugging Face Diffusers Kütüphanesi Dokümantasyonu: [https://huggingface.co/docs/diffusers/index](https://huggingface.co/docs/diffusers/index)
 
+
