@@ -338,3 +338,4 @@ LoRA'nın azaltılmış VRAM kullanımı, daha hızlı eğitim, kompakt kontrol 
 *   Rombach, R., Blattmann, A., Lorenz, D., Esser, P., & Ommer, B. (2022). High-Resolution Image Synthesis with Latent Diffusion Models. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, pp. 10684-10695.
 *   Hugging Face PEFT Kütüphanesi Dokümantasyonu: [https://huggingface.co/docs/peft/index](https://huggingface.co/docs/peft/index)
 *   Hugging Face Diffusers Kütüphanesi Dokümantasyonu: [https://huggingface.co/docs/diffusers/index](https://huggingface.co/docs/diffusers/index)
+
