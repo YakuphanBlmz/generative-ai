@@ -263,3 +263,4 @@ def generate_with_skeleton_of_thought(main_prompt: str) -> str:
 Teknik, sağlam istem mühendisliği ve çok aşamalı çıkarımın dikkatli bir şekilde orkestrasyonu gibi yeni karmaşıklıklar sunsa da, kullanıcı deneyimi ve sistem verimliliği açısından faydaları oldukça fazladır. Üretken Yapay Zeka günlük araçlara ve kritik sistemlere entegre olmaya devam ettikçe, SoT gibi yöntemler performansı optimize etmek ve LLM'lerin gücünün modern uygulamaların gerektirdiği hız ve çeviklikle sunulmasını sağlamak için vazgeçilmez hale gelecektir. Gelecekteki araştırmalar muhtemelen optimal iskeletler oluşturmanın, paralel üretimlerde tutarlılığı artırmanın ve SoT'yi diğer gecikme azaltma teknikleriyle entegre etmenin daha sofistike yollarını keşfedecektir.
 
 
+
