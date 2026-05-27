@@ -229,3 +229,4 @@ print(f"Oluşturulan Altyazı: {caption}")
 
 ## 8. Sonuç
 BLIP, yaygın web ölçekli veri gürültüsü sorununu etkili bir şekilde ele alarak, görsel-dil ön eğitiminde önemli bir ilerleme kaydetmiştir. Altyazılar üreten ve filtreleyen yeni bir **önyükleme mekanizmasını**, hem anlama hem de üretim yeteneğine sahip birleşik bir **Çok Modlu Uzmanlar Karışımı (MedKIT) mimarisiyle** birleştirerek, BLIP bir dizi çok modlu görevde üstün performans elde eder. Kusurlu verilerden sağlam ve genellenebilir temsiller öğrenme yeteneği, mevcut yapay zeka yeteneklerinin sınırlarını zorlamakla kalmaz, aynı zamanda gelecekteki **üretken yapay zeka** sistemlerinin daha güvenilir ve verimli geliştirilmesi için de yol açar. BLIP tarafından tanıtılan ilkeler, özellikle kendi kendine üretim ve filtreleme yoluyla veri küratörlüğü, sağlam çok modlu modeller oluşturmaya yönelik gelecekteki araştırmaları etkileyecektir.
+
