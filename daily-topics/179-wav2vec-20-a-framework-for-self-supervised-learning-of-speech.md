@@ -234,3 +234,4 @@ Wav2Vec 2.0, konuşma için kendi kendine denetimli öğrenmede anıtsal bir sı
 
 
 
+
