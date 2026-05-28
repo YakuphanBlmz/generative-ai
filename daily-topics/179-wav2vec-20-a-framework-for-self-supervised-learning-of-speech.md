@@ -232,3 +232,4 @@ print(f"Çıkarılan özelliklerin şekli: {hidden_states.shape}")
 Wav2Vec 2.0, konuşma için kendi kendine denetimli öğrenmede anıtsal bir sıçramayı temsil etmektedir. Etiketlenmemiş ses verilerini yeni mimarisi ve karşıt ön eğitim hedefi aracılığıyla etkili bir şekilde kullanarak, kıt etiketli kaynaklara olan bağımlılığı önemli ölçüde azaltmış ve yüksek performanslı konuşma teknolojilerine erişimi demokratikleştirmiştir. Zengin, sağlam ve genellenebilir konuşma temsilleri öğrenme yeteneği, Otomatik Konuşma Tanıma performansının sınırlarını zorlamakla kalmamış, aynı zamanda konuşma işleme görevlerinin daha geniş yelpazesinde ilerlemeler için güçlü bir temel oluşturmuştur. Araştırma bu prensipler üzerine inşa edilmeye devam ettikçe, gelecek daha da verimli, güçlü ve erişilebilir konuşma yapay zeka sistemleri vaat etmektedir.
 
 
+
