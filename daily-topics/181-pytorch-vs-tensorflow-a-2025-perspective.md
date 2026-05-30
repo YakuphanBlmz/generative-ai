@@ -311,3 +311,4 @@ print(f"TensorFlow Çıkış şekli: {output_tf.shape}")
 Gelecekte muhtemelen daha fazla yakınlaşma, ONNX gibi standartlarla kolaylaştırılmış artan birlikte çalışabilirlik ve verimlilik, erişilebilirlik ve sorumlu yapay zeka üzerine sürekli bir odaklanma görülecektir. Geliştiriciler, yapay zeka inovasyonunun bir sonraki dalgasını yönlendirebilecek güçlü ve aktif olarak geliştirilen bir aracı seçtiklerini bilerek her iki çerçeveyi de güvenle seçebilirler. Nihai "kazanan", her yapay zeka projesinin benzersiz bağlamı tarafından tanımlanan durumsal bir durum olmaya devam etmektedir.
 
 
+
