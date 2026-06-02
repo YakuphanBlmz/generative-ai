@@ -606,3 +606,4 @@ Sorgu yeniden formülasyonundan belge yeniden sıralamaya, adaptif arama genişl
 
 Kesin ve doğrulanabilir üretken yapay zeka çıktılarının talebi artmaya devam ederken, CRAG gibi çerçeveler, BDM'lerin etkileyici üretken yetenekleri ile olgusal doğruluk ve güvenilirliğe yönelik kritik ihtiyaç arasındaki boşluğu kapatmada etkili olacaktır. CRAG sadece artımlı bir iyileştirme değildir; daha esnek, öz farkındalığa sahip ve nihayetinde daha değerli yapay zeka uygulamaları oluşturmaya yönelik temel bir değişimi ifade eder.
 
+
