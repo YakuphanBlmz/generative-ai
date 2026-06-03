@@ -299,3 +299,4 @@ Mevcut yaklaşımlar sıralı araç kullanımına izin verirken, BDM'lere daha g
 Araç kullanımı, Büyük Dil Modellerinin yeteneklerinde kritik bir ilerlemeyi temsil etmekte, onları sadece metin üreteçlerinden gerçek dünyayla etkileşim kurabilen güçlü, etkileşimli ajanlara dönüştürmektedir. Harici araçlarla entegre olarak, BDM'ler gerçek zamanlı veri, karmaşık hesaplama ve harici sistem etkileşimi ile ilgili içsel sınırlamaları aşabilirler. Güvenilirlik, gecikme ve güvenlik gibi zorluklar devam etse de, istem mühendisliği, ajans mimarileri ve araç orkestrasyonundaki devam eden yenilikler daha da büyük potansiyelin kilidini açmayı vaat etmektedir. BDM'lerin geleceği, araçları etkili bir şekilde kullanma yetenekleriyle ayrılmaz bir şekilde bağlantılıdır ve tüm sektörlerde daha akıllı, çok yönlü ve etkili yapay zeka uygulamalarının önünü açmaktadır.
 
 
+
