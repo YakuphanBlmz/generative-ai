@@ -241,3 +241,4 @@ WordPiece tokenizasyonu, karakter düzeyindeki ve kelime düzeyindeki tokenizasy
 WordPiece, verimlilik, genelleştirme ve görünmeyen kelime dağarcığına karşı sağlamlık açısından önemli faydalar sunarken, sabit sözlük boyutu ve benzersiz olmayan veya tamamen dilbilimsel olarak yönlendirilen değil istatistiksel olarak yönlendirilen segmentasyon potansiyeli dahil olmak üzere sınırlamalarını kabul etmek önemlidir. Bununla birlikte, çok çeşitli metin verilerini işleyebilen daha büyük, daha etkili dil modellerini mümkün kılmadaki katkısı göz ardı edilemez. WordPiece, sayısız alanda gelişmiş NLP uygulamalarını güçlendiren temel bir teknik olmaya devam etmektedir.
 
 
+
