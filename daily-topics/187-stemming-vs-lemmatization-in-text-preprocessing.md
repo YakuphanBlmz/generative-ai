@@ -407,3 +407,4 @@ Tersine, lemmatizasyon, bir kelimenin kanonik temel biçimini (lemma) doğru bir
 Kök bulma ve lemmatizasyon arasındaki karar mutlak değildir, aksine NLP görevinin özel gereksinimleri, mevcut hesaplama kaynakları ve hız ile dilbilimsel doğruluk arasındaki istenen denge tarafından belirlenen pragmatik bir seçimdir. Her iki tekniğin de kapsamlı bir şekilde anlaşılması, uygulayıcıların bilinçli kararlar almasını sağlayarak nihayetinde daha sağlam ve etkili NLP sistemlerine yol açar.
 
 
+
