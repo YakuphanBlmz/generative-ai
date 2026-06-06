@@ -409,3 +409,4 @@ Kök bulma ve lemmatizasyon arasındaki karar mutlak değildir, aksine NLP göre
 
 
 
+
