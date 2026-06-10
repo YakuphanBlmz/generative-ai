@@ -450,3 +450,4 @@ else:
 ## 6. Sonuç
 Gelişmiş Görsel-Dil-Eylem (GDA) modelleri tarafından desteklenen Akışkan Yapay Zeka, akıllı robotik gelişiminde bir paradigma değişimi temsil etmektedir. Algı, dil anlama ve fiziksel eylemi birleşik bir çerçevede entegre ederek, GDA modelleri robotların karmaşık insan talimatlarını yorumlamasına, dinamik ortamlarda gezinmesine ve benzeri görülmemiş bir esneklikle karmaşık görevleri gerçekleştirmesine olanak tanır. Genelleme, veri verimliliği ve güvenlik gibi alanlarda önemli zorluklar devam etse de, araştırma yönü giderek daha yetenekli ve otonom akışkan ajanlara işaret etmektedir. GDA modelleri olgunlaşmaya devam ettikçe, robotların günlük hayatımıza sorunsuz bir şekilde entegre olduğu, üretim ve lojistikten sağlık ve kişisel yardıma kadar çeşitli alanlarda yardımcı olduğu bir geleceğin kilidini açmayı, böylece insanların fiziksel dünyada yapay zeka ile etkileşim kurma biçimini devrim niteliğinde değiştirmeyi vaat etmektedirler.
 
+
