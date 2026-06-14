@@ -371,3 +371,4 @@ N-BEATS, çeşitli veri kümelerinde hem geleneksel istatistiksel yöntemlere he
 
 
 
+
