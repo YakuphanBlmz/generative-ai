@@ -369,3 +369,4 @@ N-BEATS, çeşitli veri kümelerinde hem geleneksel istatistiksel yöntemlere he
 *   Hyndman, R. J., & Athanasopoulos, G. (2018). *Forecasting: Principles and Practice* (2. baskı). OTexts.
 
 
+
