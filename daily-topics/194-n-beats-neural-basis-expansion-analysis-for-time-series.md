@@ -368,3 +368,4 @@ N-BEATS, çeşitli veri kümelerinde hem geleneksel istatistiksel yöntemlere he
 *   Goodfellow, I., Bengio, Y., & Courville, A. (2016). *Deep Learning*. MIT Press.
 *   Hyndman, R. J., & Athanasopoulos, G. (2018). *Forecasting: Principles and Practice* (2. baskı). OTexts.
 
+
