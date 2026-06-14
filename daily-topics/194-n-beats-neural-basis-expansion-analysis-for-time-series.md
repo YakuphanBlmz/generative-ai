@@ -367,3 +367,4 @@ N-BEATS, çeşitli veri kümelerinde hem geleneksel istatistiksel yöntemlere he
 *   Oreshkin, B. N., Carpov, D., Chapados, N., & Bengio, Y. (2019). **N-BEATS: Neural Basis Expansion Analysis for Interpretable Time Series Forecasting**. *International Conference on Learning Representations (ICLR)*.
 *   Goodfellow, I., Bengio, Y., & Courville, A. (2016). *Deep Learning*. MIT Press.
 *   Hyndman, R. J., & Athanasopoulos, G. (2018). *Forecasting: Principles and Practice* (2. baskı). OTexts.
+
