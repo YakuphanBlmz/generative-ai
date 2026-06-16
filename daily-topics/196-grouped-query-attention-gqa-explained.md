@@ -257,3 +257,4 @@ gqa_örnek_2 = DikkatMekanizması(sorgu_başlık_sayısı=8, anahtar_değer_baş
 Gruplandırılmış Sorgu Dikkat (GQA), büyük dil modelleri için transformer mimarisini optimize etmede önemli bir ilerlemeyi temsil etmektedir. Çoklu Başlıklı Dikkat'in model kalitesi ile Çoklu Sorgulu Dikkat'in çıkarım verimliliği arasında stratejik bir denge kurarak, GQA daha hızlı, daha bellek verimli otomatik gerilemeli kod çözme olanağı sağlar. Bu yenilik, giderek karmaşıklaşan LLM'lerin pratik dağıtımı için kritik öneme sahiptir ve daha erişilebilir donanımlarda daha büyük bağlam pencereleriyle etkili bir şekilde çalışmalarına olanak tanıyarak güçlü üretken yapay zeka yeteneklerine erişimi demokratikleştirmektedir. LLM'ler ölçek ve uygulama açısından büyümeye devam ettikçe, GQA gibi teknikler, yapay zeka alanında hesaplama açısından mümkün ve ekonomik olarak uygulanabilir olanın sınırlarını zorlamak için vazgeçilmez olmaya devam edecektir.
 
 
+
