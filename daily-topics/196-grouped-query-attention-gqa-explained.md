@@ -258,3 +258,4 @@ Gruplandırılmış Sorgu Dikkat (GQA), büyük dil modelleri için transformer 
 
 
 
+
