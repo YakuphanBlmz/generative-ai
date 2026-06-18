@@ -295,3 +295,4 @@ LISA'nın metodolojisi, adaptif bir ölçekleme mekanizması aracılığıyla **
 
 
 
+
