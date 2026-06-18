@@ -292,3 +292,4 @@ LISA'nın metodolojisi, adaptif bir ölçekleme mekanizması aracılığıyla **
 *   **Bottou, L. (2010). Large-scale machine learning with stochastic gradient descent. In *Proceedings of COMPSTAT'2010* (pp. 177-186). Physica-Verlag HD.**
 *   **Goodfellow, I., Bengio, Y., & Courville, A. (2016). *Deep Learning*. MIT Press.**
 
+
