@@ -293,3 +293,4 @@ LISA'nın metodolojisi, adaptif bir ölçekleme mekanizması aracılığıyla **
 *   **Goodfellow, I., Bengio, Y., & Courville, A. (2016). *Deep Learning*. MIT Press.**
 
 
+
