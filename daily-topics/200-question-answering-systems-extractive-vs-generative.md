@@ -257,3 +257,4 @@ SC sistemlerinin evrimi, RAG (Geriye Alım Destekli Üretim) gibi, her iki yakla
 
 
 
+
