@@ -249,3 +249,4 @@ print(f"Yanıt Aralığı Bitiş İndeksi: {result['end']}")
 Öte yandan, üretken modeller, geniş miktarda öğrenilmiş bilgiyi kullanarak yeni, doğal dilde yanıtlar sentezlemede eşsiz bir esneklik sunar. Konuşmaya dayalı YZ ve karmaşık muhakeme için güçlü olsalar da, potansiyel halüsinasyonlar, izlenebilirlik ve önemli hesaplama maliyeti ile ilgili zorluklarla karşılaşırlar.
 
 SC sistemlerinin evrimi, RAG (Geriye Alım Destekli Üretim) gibi, her iki yaklaşımın güçlü yönlerini stratejik olarak birleştiren hibrit mimarilere doğru giderek daha fazla işaret etmektedir. Üretken modelleri alınan gerçek bilgilerle temellendirerek, bu hibrit sistemler her iki dünyanın en iyisini sunmayı vaat ediyor: doğru, doğrulanabilir ve akıcı bir şekilde ifade edilmiş yanıtlar. Araştırmalar ilerledikçe, bu metodolojiler arasındaki etkileşim, akıllı bilgi erişimi ve insan-bilgisayar etkileşiminin geleceğini şekillendirmeye devam edecektir.
+
