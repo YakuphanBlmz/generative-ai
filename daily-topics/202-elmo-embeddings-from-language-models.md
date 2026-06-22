@@ -326,3 +326,4 @@ ELMo, NLP'de bir dönüm noktası niteliğinde bir başarıyı temsil etti ve ke
 *   Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). *Efficient Estimation of Word Representations in Vector Space*. Proceedings of International Conference on Learning Representations (ICLR), 2013.
 *   Pennington, J., Socher, R., & Manning, C. D. (2014). *GloVe: Global Vectors for Word Representation*. Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP), 1532-1543.
 
+
