@@ -327,3 +327,4 @@ ELMo, NLP'de bir dönüm noktası niteliğinde bir başarıyı temsil etti ve ke
 *   Pennington, J., Socher, R., & Manning, C. D. (2014). *GloVe: Global Vectors for Word Representation*. Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP), 1532-1543.
 
 
+
