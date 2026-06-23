@@ -473,3 +473,4 @@ Etkileri çok geniştir. Geliştiricilerin, yalnızca teknik uygulamadan öte, d
 
 AB Yapay Zeka Yasası'na uyum başlangıçta göz korkutucu görünse de, sonuçta yapay zeka teknolojilerine kamu güvenini artırarak sürdürülebilir inovasyonun önünü açmaktadır. Bu yeni sorumlulukları benimseyen geliştiriciler yalnızca yasal uyumu sağlamakla kalmayacak, aynı zamanda gerçekten faydalı ve temel insani değerlerle uyumlu yapay zeka sistemlerinin oluşturulmasına da katkıda bulunacaktır. AB'de ve potansiyel olarak küresel olarak yapay zeka gelişiminin geleceği, şüphesiz bu temel düzenleyici ilkeler tarafından şekillendirilecektir.
 
+
