@@ -391,3 +391,4 @@ Bu çerçeve, geleneksel LLM ve RAG uygulamalarını etkileyen halüsinasyon, al
 Yapay zeka sistemleri, sağlık ve finanstan eğitime ve hukuki araştırmalara kadar kritik uygulamalara daha derinlemesine entegre olmaya devam ettikçe, doğrulanabilir, güvenilir ve kesin bilgiye olan talep büyük önem taşımaktadır. CRAG, ikna edici bir çözüm sunarak, daha güvenilir ve sofistike yapay zeka asistanları ve bilgi sistemlerinin önünü açmaktadır. İlkeleri, LLM'lerin yalnızca akıcı olmakla kalmayıp aynı zamanda sürekli olarak doğru, güvenilir ve gerçeğe derinden dayalı olduğu bir geleceğin altını çizmektedir. CRAG benzeri çerçevelerin sürekli geliştirilmesi ve dağıtımı, şüphesiz bir sonraki nesil yüksek yetenekli ve sorumlu yapay zeka uygulamalarını şekillendirecektir.
 
 
+
