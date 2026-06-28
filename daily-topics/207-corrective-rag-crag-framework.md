@@ -397,3 +397,4 @@ Yapay zeka sistemleri, sağlık ve finanstan eğitime ve hukuki araştırmalara 
 
 
 
+
