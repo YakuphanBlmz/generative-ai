@@ -298,3 +298,4 @@ print(f"Tek bir örnek için tahmin: {single_prediction[0]}")
 
 
 
+
