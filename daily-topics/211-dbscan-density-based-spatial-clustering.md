@@ -292,3 +292,4 @@ plt.show()
 DBSCAN, keyfi şekilli kümeleri tanımlama ve gürültüyü ayırmada başarılı olan güçlü ve sezgisel bir yoğunluk tabanlı kümeleme algoritmasıdır. Gücü, küme sayısını otomatik olarak belirleme ve aykırı değerleri etkili bir şekilde işleme yeteneğinde yatar, bu da onu keşifsel veri analizi ve çeşitli alanlara özgü uygulamalarda değerli bir araç haline getirir. Parametre seçimine karşı performansı hassas olsa ve değişen küme yoğunluklarıyla zorlanabilse de, alan bilgisi ve k-uzaklık grafiği gibi tekniklerle yönlendirilen dikkatli parametre ayarlaması, tam potansiyelini ortaya çıkarabilir. DBSCAN, karmaşık mekansal yapılara sahip veri kümeleri için mesafe tabanlı yöntemlere göre belirgin bir avantaj sunarak, denetimsiz öğrenme alanında bir köşe taşı olmaya devam etmektedir.
 
 
+
