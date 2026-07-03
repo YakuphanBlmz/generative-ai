@@ -288,3 +288,4 @@ Falcon mimarisi, ayırt edici **Paralel Dikkat mekanizması** ile, verimli **Bü
 
 
 
+
