@@ -233,3 +233,4 @@ print(f"Dikkat maskesi şekli: {inputs['attention_mask'].shape}")
 
 Longformer'ın 4.096 veya hatta 16.384 tokene kadar belgeleri işleyebilmesi, Transformer tabanlı mimarilerin yasal belgeler, bilimsel makaleler, kitaplar ve karmaşık diyaloglar gibi gerçek dünya görevlerine uygulanabilirliğini önemli ölçüde genişletmektedir. İçerik hakkında daha bütünsel bir anlayışa olanak tanır, genellikle bilgi kaybına yol açan keyfi kırpma veya karmaşık segmentasyon stratejilerine olan ihtiyacı azaltır. Longformer'ın katkıları, belge özetleme, gelişmiş soru yanıtlama ve kapsamlı bilgi çıkarma gibi alanlarda daha sofistike ve bağlamdan haberdar yapay zeka sistemlerinin önünü açmış, uzun belge Transformer ortamında önemli bir araç olarak yerini sağlamlaştırmıştır. Araştırmalar devam ettikçe, seyrek dikkat mekanizmalarının, son derece uzun dizilerin daha verimli ve etkili işlenmesi için daha fazla optimizasyona ve yeni mimarilere ilham vermesi muhtemeldir.
 
+
