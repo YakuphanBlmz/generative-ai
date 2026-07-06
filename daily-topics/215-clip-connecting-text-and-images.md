@@ -312,3 +312,4 @@ CLIP, esneklik, sağlamlık ve göreve özgü etiketlere bağımlılığı azalt
 
 
 
+
