@@ -311,3 +311,4 @@ CLIP, çok modlu yapay zekada inkâr edilemez bir şekilde çığır açan bir y
 CLIP, esneklik, sağlamlık ve göreve özgü etiketlere bağımlılığı azaltma konusunda önemli avantajlar sunarken, eğitim verilerinden kaynaklanan potansiyel yanlılıklar ve ince taneli uzamsal akıl yürütmedeki sınırlamalarla ilgili zorlukları da beraberinde getirmektedir. Bununla birlikte, daha genel amaçlı yapay zeka sistemlerinin geliştirilmesi üzerindeki etkisi derindir. CLIP, dünyayı insan bilişine daha yakın bir şekilde algılayabilen ve üzerinde akıl yürütebilen yapay zeka modellerine doğru atılan kritik bir adımı temsil etmekte, gelecekteki yapay genel zeka ve yüksek derecede sezgisel insan-yapay zeka etkileşimi araştırmaları için sağlam bir temel oluşturmaktadır. Sürekli evrimi ve yeni mimarilere entegrasyonu, önümüzdeki yıllarda daha da sofistike çok modlu anlayışlar vaat etmektedir.
 
 
+
