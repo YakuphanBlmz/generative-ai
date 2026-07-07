@@ -307,3 +307,4 @@ ColBERT, nöral Bilgi Erişimi alanında çığır açan bir ilerlemeyi temsil e
 
 
 
+
