@@ -304,3 +304,4 @@ print(f"ColBERT MaxSim Puanı: {score}")
 ColBERT, nöral Bilgi Erişimi alanında çığır açan bir ilerlemeyi temsil etmektedir; önceki BERT tabanlı BE modellerini rahatsız eden etkinlik ve verimlilik arasındaki uzun süredir devam eden değiş tokuşu başarıyla çözmüştür. **Bağlamsallaştırılmış jeton gömüleri** üzerinde **geç etkileşim** sunarak ve yeni **MaxSim operatörünü** kullanarak, ColBERT, devasa belge koleksiyonları üzerinde gerçek dünya uygulamaları için gerekli hız ve ölçeklenebilirliği korurken, en gelişmiş erişim kalitesini elde eder. Tam çapraz-kodlayıcıların tam hesaplama yükü olmadan ince taneli, jeton düzeyinde karşılaştırmalar yapabilme yeteneği, onu son derece etkili bir mimari olarak işaretlemektedir. Depolama yükü gibi zorluklar devam etse de, ColBERT'in paradigma değiştiren tasarımı, yeni nesil verimli ve etkili nöral arama sistemlerine ilham vermiş ve modern BE araştırma ve dağıtımında bir köşe taşı olarak yerini sağlamlaştırmıştır.
 
 
+
