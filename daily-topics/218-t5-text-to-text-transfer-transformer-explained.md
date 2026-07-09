@@ -280,3 +280,4 @@ print(f"Özetlenen: {summarized_text}")
 T5 modeli, Üretken Yapay Zeka ve Doğal Dil İşleme alanında anıtsal bir başarı olarak durmaktadır. Tüm NLP görevlerini tek bir **metinden metine çerçevesi** altında birleştirerek, T5, büyük ölçekli **aktarım öğrenmesinin** muazzam potansiyelini ve **Transformer mimarisinin** gücünü göstermiştir. Devasa C4 veri kümesi üzerindeki yenilikçi ön eğitim hedefi, çok yönlü ince ayar yetenekleriyle birleştiğinde, makine çevirisinden sofistike soru cevaplamaya kadar çok çeşitli uygulamalar için bir kıyaslama modeli haline getirmiştir. Hesaplama talepleri ve potansiyel yanlılıklar hala göz önünde bulundurulması gereken faktörler olsa da, T5, karmaşık dil problemlerine yaklaşımımızı ve çözüm şeklimizi temelden değiştirmiş, gelecekte daha genelci ve güçlü dil modellerinin önünü açmıştır. Etkisi, yapay zeka yeteneklerinin sınırlarını zorlamaya devam eden sonraki üretken modellerde açıkça görülmektedir.
 
 
+
