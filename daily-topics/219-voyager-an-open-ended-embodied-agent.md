@@ -314,3 +314,4 @@ Voyager, karmaşık, dinamik ortamlarda **yaşam boyu öğrenme** yeteneğine sa
 
 Çerçevenin görevleri kendi kendine üretme, yürütülebilir kod sentezleme ve stratejilerini yinelemeli olarak hata ayıklama yeteneği, gerçekten özerk yapay zekaya doğru çok önemli bir adımı işaret etmektedir. Ölçeklenebilirlik, hesaplama verimliliği ve daha karmaşık gerçek dünya senaryolarında etik uyumu sağlama konusunda zorluklar devam etse de, Voyager gelecek araştırmalar için güçlü bir taslak sunmaktadır. BDM'lerin, yalnızca *ne* yapacağını değil, *nasıl* yapacağını ve kritik olarak *bir sonraki ne öğreneceğini* öğrenen ajanlar için bilişsel motorlar olarak muazzam potansiyelini vurgulamaktadır. Statik, göreve özel ajanlardan dinamik olarak evrimleşen, beceri biriktiren varlıklara doğru bu paradigma kayması, dünyamızla sağlam bir şekilde etkileşim kurabilen ve sürekli ondan öğrenebilen yeni nesil genel yapay zekanın yolunu açmaktadır.
 
+
