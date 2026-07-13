@@ -311,3 +311,4 @@ Ancak, hiyerarşik ekiplerin etkili bir şekilde uygulanması, iletişim yükü,
 
 
 
+
