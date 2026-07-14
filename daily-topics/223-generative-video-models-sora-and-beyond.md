@@ -256,3 +256,4 @@ OpenAI'nin Sora'sı ile örneklendirilen üretken video modelleri, yapay zekada 
 
 
 
+
