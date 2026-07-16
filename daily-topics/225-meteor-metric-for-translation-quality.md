@@ -277,3 +277,4 @@ print(f"METEOR Puanı (parçalanmış): {score_frag}")
 
 
 
+
