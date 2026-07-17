@@ -268,3 +268,4 @@ Düşmanca saldırılar, makine öğrenimi modellerinin, özellikle derin sinir 
 Ancak, alan bir silahlanma yarışı olmaya devam etmektedir; yeni saldırılar genellikle önerilen savunmaları hızla atlatmakta ve sürekli inovasyonu zorunlu kılmaktadır. Gelecekteki araştırmalar muhtemelen doğal olarak daha sağlam model mimarileri geliştirmeye, model sağlamlığını resmi olarak garanti etmek için sertifikasyon yöntemleri tasarlamaya ve modellerin neden savunmasız olduğunu daha iyi anlamak için yorumlanabilir yapay zeka tekniklerini keşfetmeye odaklanacaktır. Gerçek dünyadaki, yüksek riskli senaryolarda dağıtılan yapay zeka sistemlerinin güvenilirliğini sağlamak, düşmanca saldırıları etkili bir şekilde anlama, azaltma ve nihayetinde önleme yeteneğimize bağlıdır.
 
 
+
