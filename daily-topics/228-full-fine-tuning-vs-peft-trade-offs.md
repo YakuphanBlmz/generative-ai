@@ -363,3 +363,4 @@ Doğal takas, mutlak en yüksek performans arayışını, kaynak kısıtlamalar�
 
 
 
+
