@@ -358,3 +358,4 @@ Buna karşılık, LoRA, QLoRA ve Prefix Tuning gibi teknikleri içeren **PEFT me
 
 Doğal takas, mutlak en yüksek performans arayışını, kaynak kısıtlamaları, operasyonel verimlilik ve veri kullanılabilirliği ile dengelemektedir. Hesaplama kaynaklarının sınırlı olduğu, hızlı yinelemenin kritik olduğu, birden fazla göreve özgü adaptasyonun gerektiği veya veri kıtlığının endişe verici olduğu senaryolar için PEFT, Üretken YZ'nin gelişen manzarasında üstün ve daha sürdürülebilir bir strateji olarak öne çıkmaktadır. Tam ince ayar teorik olarak marjinal olarak daha yüksek bir performans tavanına ulaşabilse de, PEFT'in ölçeklenebilirlik, maliyet etkinliği ve yönetim kolaylığı açısından sunduğu pratik avantajlar, genellikle gerçek dünya uygulamaları için tercih edilen seçenek olmasını sağlamaktadır.
 
+
