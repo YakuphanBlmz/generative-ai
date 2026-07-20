@@ -362,3 +362,4 @@ Gemma ailesi, farklı boyutları ve talimatla ayarlanmış varyantlarıyla, doğ
 
 Yapay zeka ortamı gelişmeye devam ettikçe, Gemma inovasyonu hızlandırmaya, yeni uygulamaları teşvik etmeye ve gelişmiş yapay zeka sistemlerine ilişkin kolektif anlayışımızı derinleştirmeye hazırlanıyor. Kullanılabilirliği, daha geniş bir inovasyon yelpazesini yapay zekanın geleceğine katkıda bulunmaya teşvik ederek, bu dönüştürücü teknolojinin faydalarının geniş çapta dağıtılmasını ve sorumlu bir şekilde kullanılmasını sağlar. Gemma etrafındaki devam eden geliştirme ve topluluk katılımı, şüphesiz yapay zeka destekli çözümlerin yeni neslini şekillendirecek ve sofistike yapay zeka yeteneklerini demokratikleştirme yolculuğunda önemli bir dönüm noktası olacaktır.
 
+
