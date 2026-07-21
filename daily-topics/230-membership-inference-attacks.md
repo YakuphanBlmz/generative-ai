@@ -264,3 +264,4 @@ perform_simple_mia(0.85, confidence_threshold=0.90)
 Bu zorluğun üstesinden gelmek, sağlam ve çok katmanlı bir savunma stratejisi gerektirir. Temel düzenlileştirme yöntemlerinden ve erken durdurmadan, Diferansiyel Gizlilik gibi sofistike kriptografik yaklaşımlara kadar çeşitli teknikler hayati öneme sahiptir. Gizliliği koruyan makine öğrenimi alanındaki devam eden araştırmalar, YZ'nin faydalarının bireysel haklardan ödün vermeden kullanılabilmesini sağlayarak, model faydası ve veri gizliliği arasında hassas bir denge kurmayı amaçlamaktadır. Sonuç olarak, sorumlu YZ sistemlerinin geliştirilmesi ve konuşlandırılması, bu tür saldırıların derinlemesine anlaşılmasını ve gizlilik bilincine sahip modeller inşa etmeye proaktif bir bağlılığı gerektirmektedir.
 
 
+
