@@ -354,3 +354,4 @@ DoRA (Ağırlık-Ayrıştırılmış Düşük-Rank Adaptasyonu), LoRA'nın temel
 
 Bu yaklaşım, özellikle büyük dil modelleri ve görsel dönüştürücüler bağlamında, çeşitli alt akış görevleri ve model mimarileri genelinde iyileştirilmiş performansa, artırılmış eğitim kararlılığına ve daha fazla sağlamlığa yol açar. DoRA'nın minimum sayıda eğitilebilir parametre ile yüksek performansı sürdürme yeteneği, son teknoloji temel modellerle araştırmaya erişimi demokratikleştirmede ve hızlandırmadaki değerini vurgulamaktadır. PEFT yöntemleri gelişmeye devam ettikçe, DoRA, büyük sinir ağlarını belirli uygulamalara verimli bir şekilde nasıl adapte edeceğimiz konusundaki anlayışımızı rafine eden güçlü bir teknik olarak öne çıkmakta ve daha performanslı ve erişilebilir yapay zeka sistemleri için zemin hazırlamaktadır.
 
+
