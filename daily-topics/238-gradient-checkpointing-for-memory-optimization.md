@@ -276,3 +276,4 @@ Gradyan kontrol noktalama, derin öğrenme alanında kritik bir ilerleme olarak 
 
 
 
+
