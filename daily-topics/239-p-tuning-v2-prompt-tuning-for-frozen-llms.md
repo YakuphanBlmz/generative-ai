@@ -270,3 +270,4 @@ P-Tuning v2, büyük dil modelleri için **parametre-verimli ince ayar** alanın
 
 P-Tuning v2'nin temel yenilikleri – derin prompt ayarlaması, parametre verimliliği ve sağlam performans – son teknoloji dil modelleriyle ilişkili ölçeklenebilirlik ve kaynak tüketimi gibi kritik zorlukları ele almaktadır. LLM'ler boyut ve karmaşıklık olarak büyümeye devam ettikçe, P-Tuning v2 gibi yöntemler daha da önemli hale gelecek, yapay zeka alanında daha geniş erişilebilirliği, daha hızlı dağıtım döngülerini ve daha sürdürülebilir araştırma ve geliştirme uygulamalarını mümkün kılacaktır. Etkisi, devasa önceden eğitilmiş modellerin gücünün, geleneksel ince ayarın yasaklayıcı maliyetleri olmadan belirli uygulamalar için etkili bir şekilde kullanılabileceğini garanti eder.
 
+
