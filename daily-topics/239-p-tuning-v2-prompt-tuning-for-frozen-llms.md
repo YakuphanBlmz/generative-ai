@@ -272,3 +272,4 @@ P-Tuning v2'nin temel yenilikleri – derin prompt ayarlaması, parametre veriml
 
 
 
+
