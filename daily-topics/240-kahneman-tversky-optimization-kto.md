@@ -394,3 +394,4 @@ KTO'nun avantajları, özellikle **hesaplama verimliliği**, **örnek verimlili�
 
 
 
+
