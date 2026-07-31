@@ -392,3 +392,4 @@ Kahneman-Tversky Optimizasyonu, davranışsal ekonominin içgörülerini üretke
 
 KTO'nun avantajları, özellikle **hesaplama verimliliği**, **örnek verimliliği** ve ayrı bir ödül modeline duyulan ihtiyacın ortadan kaldırılması, onu RLHF gibi mevcut tercih optimizasyon tekniklerine çekici bir alternatif veya tamamlayıcı haline getirmektedir. Üretken yapay zekanın karmaşıklığı ve toplumsal etkisi artmaya devam ettikçe, insan değerlerini ve güvenlik kısıtlamalarını yapay zeka sistemlerine aşılamanın sağlam ve yorumlanabilir yollarını sunan KTO gibi yöntemler giderek hayati hale gelecektir. KTO, daha kontrol edilebilir, güvenilir ve gerçekten faydalı yapay zekalar yaratmaya yönelik önemli bir adımı temsil etmektedir.
 
+
