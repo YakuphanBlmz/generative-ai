@@ -328,3 +328,4 @@ Whisper'ın etkisi, sadece teknik başarının ötesine geçmektedir. Açık kay
 
 Hesaplama yükü, halüsinasyon potansiyeli ve gelişmiş ince taneli zaman damgalamaya ihtiyaç gibi zorluklar devam etse de, Whisper tarafından atılan temel sağlamdır. Gelecekteki araştırmalar şüphesiz verimliliğini optimize etmeye, sınırlamalarını hafifletmeye ve daha karmaşık çok modlu yapay zeka sistemlerine entegrasyonunu keşfetmeye odaklanacaktır. Whisper, genel amaçlı konuşma tanıma için yeni bir ölçüt belirlemekle kalmamış, aynı zamanda son derece yetenekli ve uyarlanabilir yapay zeka modelleri oluşturmak için geniş, kusurlu veri kümelerini nasıl ele alacağımız ve kullanacağımız konusunda yeni yollar açarak, gerçekten her yerde bulunan ve akıllı konuşma yapay zekasına doğru önemli bir adım atmıştır.
 
+
