@@ -338,3 +338,4 @@ SSL araştırmalarındaki gelecekteki yönelimler şunları içerir:
 Kendiliğinden Denetimli Öğrenme, makine öğreniminde yadsınamaz bir devrim başlatmış, model eğitimi ve gösterim öğrenimine yaklaşımımızı temelden değiştirmiştir. Etiketsiz verinin muazzam potansiyelini ortaya çıkararak, SSL, özellikle Üretken Yapay Zeka alanında, mevcut nesil yüksek kapasiteli yapay zeka modelleri için temel omurgayı sağlamıştır. LLM'lerin emsalsiz dil anlayışından görüntü üretim modellerinin çarpıcı yaratıcılığına kadar, elde edilen başarılar SSL'nin etkinliğinin bir kanıtıdır. Zorluklar devam etse de, ön görev tasarımında, mimari gelişmelerde ve teorik içgörülerdeki devam eden araştırmalar ve yenilikler, yapay zekanın başarabileceklerinin sınırlarını zorlamaya devam etmektedir. Daha akıllı ve özerk sistemlere doğru ilerlerken, kendiliğinden denetimli öğrenme şüphesiz bir temel taşı olmaya devam edecek ve yapay zeka inovasyonunun bir sonraki dalgasını yönlendirecektir.
 
 
+
