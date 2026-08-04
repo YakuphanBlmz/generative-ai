@@ -374,3 +374,4 @@ print(f"0 numaralı düğüm için güncellenmiş özellik: {updated_feature_for
 Graf Sinir Ağları, karmaşık graf yapılı verileri işlemek ve bunlardan öğrenmek için güçlü bir çerçeve sunarak makine öğreniminde önemli bir ilerlemeyi temsil etmektedir. Derin öğrenme prensiplerini yinelemeli mesajlaşma yoluyla Öklid dışı alanlara genişleterek, GNN'ler modellerin karmaşık ilişkileri yakalamasına ve zengin düğüm ve graf düzeyinde gömülmeler çıkarmasına olanak tanır. Temel graf teorisi dayanaklarından GCN'ler, GraphSAGE ve GAT'lar gibi gelişmiş mimarilere kadar, GNN'ler çeşitli alanlarda zorlu sorunları çözmek için yeni yollar açmıştır. Graf yapılı verilerin yaygınlığı artmaya devam ettikçe, GNN'ler yapay zekanın sınırlarını zorlamada giderek daha kritik bir rol oynamaya hazırlanmaktadır.
 
 
+
