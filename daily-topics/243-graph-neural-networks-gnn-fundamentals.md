@@ -376,3 +376,4 @@ Graf Sinir Ağları, karmaşık graf yapılı verileri işlemek ve bunlardan ö�
 
 
 
+
