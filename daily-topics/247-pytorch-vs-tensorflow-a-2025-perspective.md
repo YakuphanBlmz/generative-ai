@@ -358,3 +358,4 @@ print("\nSahte giriş için çıkış şekli:", output.shape)
 
 Nihayetinde, 2025 yılında PyTorch ve TensorFlow arasındaki karar, birinin doğası gereği "üstün" olmasından ziyade, çerçeveyi belirli proje gereksinimleri, ekip uzmanlığı ve dağıtım hedefleriyle hizalamakla ilgilidir. Her iki çerçeve de birbirlerinden öğrenerek ve en iyi uygulamaları entegre ederek gelişmeye devam etmekte, böylece tüm Üretken YZ ekosistemini zenginleştirmektedir. Gelecek muhtemelen daha da fazla birlikte çalışabilirlik getirecek ve geliştiricilerin ihtiyaç duydukça her birinin en iyi özelliklerinden yararlanmalarına olanak tanıyacaktır.
 
+
