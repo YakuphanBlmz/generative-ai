@@ -376,3 +376,4 @@ Sabit yerel pencerelerden ve seyreltilmiş modellerden uyarlanabilir küresel-ye
 *   Kitaev, N., Kaiser, Ł., & Levskaya, A. (2020). Reformer: The Efficient Transformer. *International Conference on Learning Representations*.
 *   Zaheer, M., Guruganesh, K., Dubey, A., Huang, J., Alleman, A., Chi, C., ... & Ahmed, M. (2020). Big Bird: Transformers for Longer Sequences. *Advances in Neural Information Processing Systems*, 33.
 
+
