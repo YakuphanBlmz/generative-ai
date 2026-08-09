@@ -377,3 +377,4 @@ Sabit yerel pencerelerden ve seyreltilmiş modellerden uyarlanabilir küresel-ye
 *   Zaheer, M., Guruganesh, K., Dubey, A., Huang, J., Alleman, A., Chi, C., ... & Ahmed, M. (2020). Big Bird: Transformers for Longer Sequences. *Advances in Neural Information Processing Systems*, 33.
 
 
+
