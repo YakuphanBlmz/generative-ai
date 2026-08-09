@@ -378,3 +378,4 @@ Sabit yerel pencerelerden ve seyreltilmiş modellerden uyarlanabilir küresel-ye
 
 
 
+
