@@ -327,3 +327,4 @@ Veri zehirleme saldırıları, YZ sistemlerinin güvenliği ve güvenilirliği i
 *   Steinhardt, J., Koh, P. W., & Liang, P. (2017). Certified defenses for data poisoning attacks. *Advances in Neural Information Processing Systems*, 30.
 *   Jagielski, M., Oprea, A., Biggio, B., Liu, C., Nystrom, P., & Li, Z. (2018, February). Manipulating machine learning: Poisoning attacks and countermeasures for regression learning. In *2018 IEEE Symposium on Security and Privacy (SP)* (pp. 19-35). IEEE.
 *   S. E. B. Maartin et al., "Backdoor Attacks in Federated Learning: A Survey," *IEEE Transactions on Network and Service Management*, 2023.
+
