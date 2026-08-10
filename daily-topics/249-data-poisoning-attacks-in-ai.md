@@ -329,3 +329,4 @@ Veri zehirleme saldırıları, YZ sistemlerinin güvenliği ve güvenilirliği i
 *   S. E. B. Maartin et al., "Backdoor Attacks in Federated Learning: A Survey," *IEEE Transactions on Network and Service Management*, 2023.
 
 
+
