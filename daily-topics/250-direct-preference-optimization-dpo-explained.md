@@ -293,3 +293,4 @@ print(f"Kavramsal DPO Kaybı: {dpo_loss.item():.4f}")
 **Doğrudan Tercih Optimizasyonu (DPO)**, büyük dil modellerini insan değerleriyle hizalama alanında önemli bir ilerlemeyi işaret etmektedir. İnsan tercihlerinden öğrenme sorununu yeniden formüle ederek, DPO, açık bir ödül modeli ve PPO gibi karmaşık pekiştirmeli öğrenme algoritmalarına olan ihtiyacı ortadan kaldırır. Bu basitleştirme, daha kararlı, hesaplama açısından verimli ve sağlam bir eğitim süreciyle sonuçlanır. Etkinliği hala insan tercih verilerinin kalitesine bağlı olsa ve aşırı keşif senaryolarında sınırlamalarla karşılaşabilse de, DPO'nun zarafeti ve pratik avantajları, onu üretken yapay zeka modellerini ince ayarlamak için giderek daha popüler bir seçim haline getirmektedir. Bu alandaki araştırmalar devam ederken, DPO veya prensipleri üzerine inşa edilen yöntemler, daha güvenilir, yardımcı ve zararsız yapay zeka sistemleri geliştirmede kritik bir rol oynamaya hazırdır.
 
 
+
