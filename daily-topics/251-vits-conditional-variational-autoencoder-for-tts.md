@@ -460,3 +460,4 @@ VITS'in temel yenilikleri, akış tabanlı öncül kodlayıcısı aracılığıy
 VITS'in etkisi sadece teknik başarılarla sınırlı değildir. Yüksek ifade gücüne sahip ve çeşitli konuşma üretme kapasitesi, sanal asistanlardan sesli kitaplara, içerik oluşturmadan erişilebilirlik araçlarına kadar geniş bir uygulama yelpazesi için uygun hale getirir. Bu kadar çok bileşenli bir sistemi eğitmenin hesaplama karmaşıklığı ve incelikleri hala zorluklar olmaya devam etse de, VITS şüphesiz sinirsel konuşma sentezi alanında gelecekteki araştırmaların yolunu açmış, gerçekten insan benzeri sentetik sesler yaratmada başarılabilir olanın sınırlarını zorlamıştır.
 
 
+
