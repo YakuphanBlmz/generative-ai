@@ -432,3 +432,4 @@ Son olarak, mevcut HE şemalarının birçoğu kuantum saldırılarına karşı 
 
 Homomorf Şifreleme, gerçekten gizliliği koruyan YZ'ye ulaşma yolunda anıtsal bir adımı temsil etmektedir. Şifrelenmiş veriler üzerinde hesaplamalara izin vererek, özellikle sağlık ve finans gibi hassas alanlarda YZ modellerinin dağıtılmasıyla ilişkili doğal gizlilik zorluklarına güçlü bir kriptografik çözüm sunar. Performans, model uyumluluğu ve kullanılabilirlik konularında önemli engeller devam etse de, devam eden araştırma ve geliştirme, daha verimli ve pratik HE uygulamalarının önünü açmaktadır. Bireylerin kişisel verilerinden ödün vermeden gelişmiş zekadan faydalanabileceği yaygın, gizliliği koruyan YZ vizyonu, Homomorf Şifrelemenin dönüştürücü potansiyeli sayesinde giderek daha ulaşılabilir hale gelmektedir. Teknoloji olgunlaştıkça ve daha erişilebilir hale geldikçe, küresel çapta güvenli ve etik YZ sistemlerinin vazgeçilmez bir bileşeni olmaya adaydır.
 
+
