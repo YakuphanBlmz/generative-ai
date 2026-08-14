@@ -279,3 +279,4 @@ ResNet'in ve atlama bağlantıları kavramının tanıtılması, derin öğrenme
 
 
 
+
