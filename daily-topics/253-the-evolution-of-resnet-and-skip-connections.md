@@ -275,3 +275,4 @@ class BasicResidualBlock(nn.Module):
 <a name="7-sonuç"></a>
 ## 7. Sonuç
 ResNet'in ve atlama bağlantıları kavramının tanıtılması, derin öğrenme alanını temelden dönüştürdü. Öğrenme hedefini ustaca bir artık fonksiyona dönüştürerek ve doğrudan gradyan yolları sağlayarak, ResNet, ultra derin sinir ağlarını eğitmenin uzun süredir devam eden zorluklarını, yani sönümlenen gradyan ve dejenarasyon problemlerini etkili bir şekilde aştı. Bu yenilik, sadece bilgisayar görüşünde benzeri görülmemiş performansa yol açan önemli ölçüde daha derin ve daha güçlü modellerin geliştirilmesini sağlamakla kalmadı, aynı zamanda benzer prensipleri kullanan sonraki mimari tasarımlar dalgasına da ilham verdi. ResNet'in kalıcı mirası, derin öğrenmenin tüm potansiyelini ortaya çıkarmada mimari yeniliğin gücünü vurgulamaktadır.
+
