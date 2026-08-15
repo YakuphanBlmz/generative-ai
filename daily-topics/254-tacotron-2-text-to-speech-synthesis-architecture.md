@@ -319,3 +319,4 @@ Tacotron 2, Metinden Konuşmaya sentezi alanında derin bir etki yaratmış, do�
 *   Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). Attention Is All You Need. *Advances in neural information processing systems*, *30*.
 
 
+
