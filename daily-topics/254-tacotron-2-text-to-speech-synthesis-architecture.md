@@ -317,3 +317,4 @@ Tacotron 2, Metinden Konuşmaya sentezi alanında derin bir etki yaratmış, do�
 *   Shen, J., Sercu, T., Fanty, M., & Sainath, T. N. (2018). Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions. *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*.
 *   Wang, Y., Skerry-Ryan, R. J., Stanton, D., Battenberg, Y., Clark, R., Chan, W., ... & Xiao, T. (2017). Tacotron: Towards End-to-End Speech Synthesis. *Interspeech*.
 *   Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). Attention Is All You Need. *Advances in neural information processing systems*, *30*.
+
