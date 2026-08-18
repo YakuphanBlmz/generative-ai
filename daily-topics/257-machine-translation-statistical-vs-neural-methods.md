@@ -265,3 +265,4 @@ print(f"'{word3}' için gömülü temsil: {emb3}")
 Makine çevirisinin kural tabanlı sistemlerden İMÇ'ye ve nihayetinde NMÇ'ye uzanan yolculuğu, yapay zeka ve doğal dil işlemedeki hızlı ilerlemeleri örneklendirmektedir. İMÇ, onlarca yıl boyunca sağlam ve veriye dayalı bir çerçeve sunarken, derin öğrenme ve özellikle Transformer mimarisi tarafından desteklenen NMÇ, eşi benzeri görülmemiş çeviri kalitesi, akıcılığı ve verimliliği çağına girmiştir. Bu değişim, insan dilinin karmaşık inceliklerini yakalamada uçtan uca öğrenmenin ve nöral temsillerin derin etkisini vurgulamaktadır. Büyük veri ihtiyacı ve yorumlanabilirlik sorunları gibi zorluklarına rağmen, NMÇ gelişmeye devam etmekte, düşük kaynaklı çeviri, çok dilli modeller ve çeviri çıktıları üzerinde daha iyi kontrol konularına odaklanan araştırmalarla otomatik dil dönüşümünün sınırlarını zorlamaktadır.
 
 
+
