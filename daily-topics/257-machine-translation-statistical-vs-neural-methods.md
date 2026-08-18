@@ -268,3 +268,4 @@ Makine çevirisinin kural tabanlı sistemlerden İMÇ'ye ve nihayetinde NMÇ'ye 
 
 
 
+
