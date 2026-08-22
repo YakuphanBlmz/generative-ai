@@ -300,3 +300,4 @@ MAML, **meta-öğrenme** alanında bir mihenk taşı algoritması olarak yerini 
 
 **İkinci dereceden gradyanlar**la ilişkili hesaplama maliyeti önemli bir engel olmaya devam etse de, etkinliğini ve ölçeklenebilirliğini artırmayı amaçlayan (FO-MAML, Reptile ve daha yüksek dereceden MAML uzantıları gibi) sayısız varyant ve yaklaşım ortaya çıkmaya devam etmektedir. MAML'ın temel konsepti - etkili bir şekilde nasıl öğrenileceğini öğrenmek - gerçek dünya problemlerinin incelikleriyle minimal denetimle başa çıkabilen daha adaptif, çok yönlü ve veri açısından verimli yapay zeka sistemleri için zemin hazırlamaktadır. Doğrudan eğitim deneyimlerinin ötesine genelleşebilen ve hızla yeni yetkinlikler edinebilen gerçekten zeki ajanlar oluşturma yolunda kritik bir adımı temsil etmektedir.
 
+
