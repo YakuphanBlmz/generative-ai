@@ -313,3 +313,4 @@ Karar Ağaçları ve Rastgele Ormanlar, denetimli makine öğrenimi alanında ik
 Rastgele Ormanlar, topluluk öğrenmesinin gücünden, özellikle bagging ve rastgele özellik seçimi yoluyla yararlanarak bu sınırlamaların üstesinden gelir. Birden fazla dekorrele edilmiş karar ağacından gelen tahminleri bir araya getirerek, Rastgele Ormanlar varyansı önemli ölçüde azaltır ve tahmin doğruluğunu ve sağlamlığını artırır, ancak bu, bir miktar yorumlanabilirlik pahasına olur. Yüksek boyutlu verileri işleme, özellik önem derecesi tahminleri sağlama ve aşırı öğrenmeyi azaltma yetenekleri, onları gerçek dünya uygulamalarında son derece etkili ve yaygın olarak kullanılan modeller olarak konumlandırmıştır. Hem bireysel güçlü ve zayıf yönlerini hem de sinerjik ilişkilerini anlamak, makine öğrenimi görevleriyle uğraşan herkes için çok önemlidir ve bu güçlü araçların doğru bir şekilde seçilmesini ve uygulanmasını sağlar.
 
 
+
