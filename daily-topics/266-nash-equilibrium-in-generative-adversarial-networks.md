@@ -279,3 +279,4 @@ Nash Dengesi, Üretken Çekişmeli Ağların dinamiklerini ve optimal durumunu t
 
 
 
+
