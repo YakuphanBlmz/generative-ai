@@ -272,3 +272,4 @@ plt.show()
 
 DBSCAN, özellikle rastgele şekilli kümeleri ortaya çıkarmada ve gürültülü veri kümelerini küme sayısı hakkında önceden bilgi gerektirmeden işlemede usta olan güçlü ve çok yönlü bir kümeleme algoritmasıdır. Yoğunluk tabanlı kavramlara — epsilon-komşulukları ve minimum noktalar — dayanması, mekansal verilerdeki doğal gruplamaları tanımlamak için sağlam bir çerçeve sağlar. Performansı, özellikle `ε` ve `MinPts` gibi parametre seçimine duyarlı olsa da ve değişen küme yoğunluklarıyla mücadele edebilse de, aykırı değer tespitindeki güçlü yönleri ve küme geometrisindeki esnekliği, onu mekansal veri madenciliğinden anomali tespitine ve biyoinformatiğe kadar çeşitli alanlarda vazgeçilmez bir araç haline getirir. Temel prensiplerini anlamak ve parametrelerini dikkatli bir şekilde uygulamak, karmaşık veri kümelerinden anlamlı modelleri etkili bir şekilde çıkarmayı sağlar.
 
+
