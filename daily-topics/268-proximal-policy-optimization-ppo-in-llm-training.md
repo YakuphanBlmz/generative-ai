@@ -460,3 +460,4 @@ BDM'lere YPO uygulaması, hesaplama gereksinimleri, sağlam bir ödül modelinin
 
 
 
+
