@@ -459,3 +459,4 @@ YPO'nun gücü, önceki politika gradyan tekniklerinin sınırlamalarını ele a
 BDM'lere YPO uygulaması, hesaplama gereksinimleri, sağlam bir ödül modelinin kritikliği ve karmaşık hiperparametre ayarı gibi zorluklar sunsa da, ChatGPT ve diğer talimatlarla ayarlanmış BDM'ler gibi yüksek düzeyde uyumlu ve kullanışlı modeller üretmedeki başarısı, dönüştürücü etkisini vurgulamaktadır. BDM'ler gelişmeye devam ettikçe, YPO veya gelecekteki yinelemeleri, giderek daha akıllı ve insanlarla uyumlu yapay zekalar yaratma arayışında şüphesiz hayati bir bileşen olmaya devam edecektir. Daha verimli PÖ algoritmaları ve daha sofistike ödül modelleme teknikleri üzerine devam eden araştırmalar, önümüzdeki yıllarda BDM'lerin yeteneklerini daha da artırma vaadini taşımaktadır.
 
 
+
