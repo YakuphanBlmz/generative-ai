@@ -232,3 +232,4 @@ NEFTune, Büyük Dil Modeli ince ayarındaki kritik bir zorluğa, yani belirli t
 
 NEFTune'un çeşitli BDM mimarileri ve kıyaslamalarında gösterdiği ampirik başarı, değerini vurgulamaktadır. Maliyeti düşük, uygulaması kolay bir strateji sunar ve talimat ince ayarlı modellerin performansını ve genelleme yeteneklerini önemli ölçüde artırabilir; çoğu zaman daha küçük modellerin bu teknik olmadan eğitilmiş çok daha büyük modellerle kıyaslanabilir veya onları aşan bir performans elde etmesine olanak tanır. BDM'ler gelişmeye devam ettikçe, NEFTune gibi model karmaşıklığını artırmadan verimliliği ve sağlamlığı artıran yöntemler, güçlü yapay zeka yeteneklerine erişimi demokratikleştirmede ve daha çok yönlü ve güvenilir yapay zeka asistanlarının geliştirilmesini teşvik etmede giderek daha hayati bir rol oynayacaktır.
 
+
