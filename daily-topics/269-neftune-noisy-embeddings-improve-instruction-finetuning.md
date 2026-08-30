@@ -234,3 +234,4 @@ NEFTune'un çeşitli BDM mimarileri ve kıyaslamalarında gösterdiği ampirik b
 
 
 
+
