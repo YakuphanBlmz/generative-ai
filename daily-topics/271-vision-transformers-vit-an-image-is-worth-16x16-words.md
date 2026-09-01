@@ -299,3 +299,4 @@ Etkileyici yeteneklerine rağmen, Vision Transformer'lar daha fazla araştırma 
 4.  **Dikkat Haritalarının Ötesinde Yorumlanabilirlik:** Dikkat haritaları bazı içgörüler sağlasa da, derin Transformer katmanlarındaki dikkat ağırlıklarının ve öğrenilen özellik temsillerinin karmaşık etkileşimini tam olarak anlamak bir zorluk olmaya devam etmektedir.
 
 Bu sınırlamalara rağmen, Vision Transformer paradigması bilgisayar görüşü araştırmalarının çehresini geri dönülmez bir şekilde değiştirmiştir. Başarısı, büyük ölçekli ön eğitimin gücünü ve self-attention mekanizmasının çok yönlülüğünü vurgulayarak, farklı veri modaliteleri arasında daha birleşik ve güçlü AI modellerinin yolunu açmaktadır.
+
