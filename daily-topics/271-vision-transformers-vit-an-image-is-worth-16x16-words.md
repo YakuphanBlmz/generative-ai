@@ -301,3 +301,4 @@ Etkileyici yeteneklerine rağmen, Vision Transformer'lar daha fazla araştırma 
 Bu sınırlamalara rağmen, Vision Transformer paradigması bilgisayar görüşü araştırmalarının çehresini geri dönülmez bir şekilde değiştirmiştir. Başarısı, büyük ölçekli ön eğitimin gücünü ve self-attention mekanizmasının çok yönlülüğünü vurgulayarak, farklı veri modaliteleri arasında daha birleşik ve güçlü AI modellerinin yolunu açmaktadır.
 
 
+
