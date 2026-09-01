@@ -305,3 +305,4 @@ Bu sınırlamalara rağmen, Vision Transformer paradigması bilgisayar görüş�
 
 
 
+
