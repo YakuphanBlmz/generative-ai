@@ -293,3 +293,4 @@ print("'fox' kelimesine en benzer kelimeler (CBOW):", model_cbow.wv.most_similar
 Word2Vec'in CBOW ve Skip-Gram mimarileri, kelime gömülmeleri alanına temel katkılar sağlayarak makinelerin insan dilini benzeri görülmemiş bir etkinlikle anlamasını ve işlemesini mümkün kılmıştır. CBOW, bağlamından bir hedef kelimeyi verimli bir şekilde tahmin ederek büyük veri kümeleri ve sık kelimeler için uygunken, Skip-Gram, bir hedef kelimeden bağlamı tahmin ederek nüanslı anlamları yakalamada ve nadir kelimeleri işlemekte üstündür. Bu iki güçlü model arasındaki seçim, veri kümesi özelliklerinin, hesaplama kısıtlamalarının ve aşağı akış NLP görevinin özel gereksinimlerinin dikkatli bir şekilde değerlendirilmesine bağlıdır. Kalıcı etkileri, sağlam dil modelleri geliştirmede bağlamsal anlayışın önemini vurgulamaktadır.
 
 
+
