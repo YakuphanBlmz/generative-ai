@@ -294,3 +294,4 @@ Word2Vec'in CBOW ve Skip-Gram mimarileri, kelime gömülmeleri alanına temel ka
 
 
 
+
