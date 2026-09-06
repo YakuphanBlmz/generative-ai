@@ -440,3 +440,4 @@ Metin özetleme alanı, üretken yapay zekadaki hızlı gelişmelerle birlikte g
 *   Lewis, M., Liu, Y., Goyal, N., Ghazvininejad, M., Mohamed, A., Levy, O., ... & Zettlemoyer, L. (2020). BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension. *Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics*.
 
 
+
