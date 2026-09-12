@@ -243,3 +243,4 @@ print(f"KL Iraksaması D_KL(P_inf || Q_inf): {dk_inf}")
 
 
 
+
