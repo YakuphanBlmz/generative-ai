@@ -239,3 +239,4 @@ print(f"KL Iraksaması D_KL(P_inf || Q_inf): {dk_inf}")
 ## 6. Sonuç
 
 **Kullback-Leibler (KL) Iraksaması**, başta **Üretken Yapay Zeka** olmak üzere çeşitli nicel disiplinlerde vazgeçilmez bir kavramdır. Bir dağılımın diğerine göre güncellendiğinde elde edilen bilgi kazancını veya bir dağılımın diğerini yaklaştırdığında kaybedilen bilgiyi titizlikle ölçerek, gelişmiş modellerin geliştirilmesini ve optimizasyonunu kolaylaştırır. Asimetrisi ve sıfır olasılıklarına özel yaklaşımı, uygulayıcılar için kritik öneme sahip hususlardır. VAE'lerdeki gizli uzayları düzenlemekten takviyeli öğrenmedeki politika güncellemelerini etkilemeye kadar, KL Iraksaması, birçok gelişmiş yapay zeka algoritmasının teorik temellerini ve pratik başarılarını destekleyen güçlü bir matematiksel araç olarak hizmet eder. Modern makine öğrenimi ve üretken modellemenin inceliklerini derinlemesine inceleyen herkes için nüanslarını anlamak son derece önemlidir.
+
