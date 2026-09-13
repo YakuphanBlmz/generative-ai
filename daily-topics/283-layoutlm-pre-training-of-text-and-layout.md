@@ -256,3 +256,4 @@ Esasen LayoutLM, daha sağlam ve akıllı Belge Yapay Zekası sistemlerinin yolu
 
 LayoutLM'nin etkisi, etkileyici kıyaslama sonuçlarının ötesine geçmektedir. Belge zekası manzarasını temelden yeniden şekillendirerek, çeşitli belge türlerinden bilgi çıkarma ve işlemeyi otomatikleştirmek için daha uçtan uca, öğrenmeye dayalı çözümlere doğru ilerlemiştir. Başarısı, daha fazla araştırma ve geliştirmeyi teşvik ederek bir LayoutLM modelleri ailesinin (v2, v3) ve Belge Yapay Zekası'nda mümkün olanın sınırlarını zorlamaya devam eden diğer çok modlu yaklaşımların ortaya çıkmasına yol açmıştır. Sonuç olarak, LayoutLM, kapsamlı belge anlama için hem görsel hem de metinsel modaliteleri dikkate almanın kritik önemini vurgulayan ve çok sayıda endüstride yeni verimliliklerin kilidini açan önemli bir ilerlemeyi temsil etmektedir.
 
+
