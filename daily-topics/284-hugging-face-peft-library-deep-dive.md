@@ -393,3 +393,4 @@ Hugging Face PEFT kütüphanesi, Üretken Yapay Zeka alanında, özellikle büy�
 `transformers` ekosistemi ile sorunsuz entegrasyonu, tanıdık ve verimli bir iş akışı sağlayarak, gelişmiş LLM özelleştirmesine erişimi demokratikleştirmektedir. Tam ince ayar ile karşılaştırılabilir performansı, kat kat daha az eğitilebilir parametre ile elde etme yeteneği, LLM dağıtımının manzarasını temelden değiştirerek onu daha sürdürülebilir, ölçeklenebilir ve erişilebilir hale getirmektedir. LLM'ler boyut ve karmaşıklık açısından büyümeye devam ettikçe, PEFT gibi kütüphanelerin rolü giderek kritik hale gelecek ve daha geniş bir topluluğun üretken yapay zekanın tam potansiyelini çeşitli ve etkili uygulamalar için kullanmasına olanak sağlayacaktır.
 
 
+
