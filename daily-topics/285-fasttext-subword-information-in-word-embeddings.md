@@ -307,3 +307,4 @@ Kelimeyi, daha küçük, paylaşılan birimlerin bileşimleri olarak görmesiyle
 
 
 
+
