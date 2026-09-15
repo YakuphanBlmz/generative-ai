@@ -302,3 +302,4 @@ FastText, özellikle geleneksel kelime düzeyindeki modeller ile karakter düzey
 
 Kelimeyi, daha küçük, paylaşılan birimlerin bileşimleri olarak görmesiyle FastText, kelime gömülmelerinin kalitesini ve kapsamını iyileştirmekle kalmaz, aynı zamanda morfolojik karmaşıklıklarından bağımsız olarak çeşitli dillere gelişmiş uyarlanabilirlik sunar. N-gram vektörlerinin depolanması nedeniyle biraz daha fazla bellek gerektirmesine rağmen, özellikle gelişen ve daha az düzenlenmiş sözlüklere sahip gerçek dünya uygulamalarında model sağlamlığı ve anlamsal anlama açısından faydaları önemlidir. FastText, yüksek kaliteli kelime temsilleri üretmek için pragmatik ve güçlü bir çözüm sunarak modern NLP araç setinde vazgeçilmez bir araç olarak konumunu sağlamlaştırmıştır.
 
+
