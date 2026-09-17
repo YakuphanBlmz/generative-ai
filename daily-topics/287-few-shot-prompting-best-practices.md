@@ -284,3 +284,4 @@ print(f"\nİnceleme: \"{new_review_3}\"\nBDM Tahmini: {llm_response_3}")
 
 
 
+
