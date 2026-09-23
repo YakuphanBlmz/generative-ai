@@ -360,3 +360,4 @@ ChatDev, **otonom yazılım mühendisliği** hedefinde önemli bir ilerlemeyi te
 
 ChatDev, rutin yazılım görevlerini otomatikleştirmek ve geliştirme döngülerini hızlandırmak için dikkate değer bir potansiyel sergilerken, sınırlamaları da mevcuttur. Mevcut zorluklar arasında, oldukça karmaşık ve belirsiz gereksinimleri ele alma, büyük ölçekli projeler için optimum performansı sağlama ve çeşitli harici araçlar ve platformlarla entegrasyon yer almaktadır. Çıktının kalitesi ve verimliliği, temel BDM'nin yeteneklerine ve ajan yönlendirmesinin hassasiyetine büyük ölçüde bağlıdır. Bununla birlikte, ChatDev, yazılım geliştirme için çok ajanlı sistemlerde gelecekteki araştırmalar için güçlü bir paradigma oluşturarak daha akıllı, otonom ve nihayetinde daha verimli yazılım oluşturma süreçlerinin önünü açmaktadır. BDM'ler gelişmeye devam ettikçe, ChatDev gibi çerçeveler, yazılım mühendisliğinin geleceğini şekillendirmede çok önemli bir rol oynayacaktır.
 
+
