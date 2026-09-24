@@ -214,3 +214,4 @@ FastText, kelime gömülmeleri alanında önemli bir ilerleme olarak öne çıkm
 
 
 
+
