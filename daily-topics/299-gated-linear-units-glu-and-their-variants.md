@@ -334,3 +334,4 @@ Orijinal sigmoid-geçitli GLU'dan Swish ve GELU gibi aktivasyon fonksiyonların�
 
 
 
+
