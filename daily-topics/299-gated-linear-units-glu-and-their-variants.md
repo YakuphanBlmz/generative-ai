@@ -330,3 +330,4 @@ Gated Linear Units ve varyantları, sinir ağları içindeki non-lineer aktivasy
 
 Orijinal sigmoid-geçitli GLU'dan Swish ve GELU gibi aktivasyon fonksiyonlarını kullanan SwiGLU ve GeGLU gibi daha gelişmiş varyantlara geçiş, Transformer mimarileri üzerine kurulu modern büyük dil modellerinin başarısında etkili olmuştur. Bu varyantlar, daha pürüzsüz gradyanlar, daha iyi yakınsama özellikleri ve karmaşık görevlerde deneysel olarak üstün performans sunar. Üretken yapay zeka alanı ilerlemeye devam ettikçe, geçitli aktivasyonların arkasındaki prensiplerin bir köşe taşı olmaya devam etmesi ve insan benzeri içeriği anlama ve üretme yeteneğine sahip daha güçlü ve verimli sinir ağı modellerinin geliştirilmesini kolaylaştırması muhtemeldir. Bu geçitleme mekanizmalarını optimize etmeye yönelik devam eden araştırmalar şüphesiz bir sonraki yapay zeka atılımlarına katkıda bulunacaktır.
 
+
