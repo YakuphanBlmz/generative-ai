@@ -289,3 +289,4 @@ ROUGE, özetleme sistemlerinin otomatik değerlendirmesi için vazgeçilmez bir 
 
 
 
+
