@@ -402,3 +402,4 @@ Derin bir sinir ağı bloğunda Katman Normalizasyonunun yerleşimi ile ilgili m
 
 
 
+
