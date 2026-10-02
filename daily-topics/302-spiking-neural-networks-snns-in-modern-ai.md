@@ -265,3 +265,4 @@ Dikenli Sinir Ağları, Yapay Zekanın evriminde büyüleyici ve giderek daha ha
 
 
 
+
