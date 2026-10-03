@@ -350,3 +350,4 @@ print(f"Ödül: {ödül_modeli(istem2, yanıt2_kötü):.2f}\n")
 
 
 
+
