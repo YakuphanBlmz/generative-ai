@@ -347,3 +347,4 @@ print(f"Ödül: {ödül_modeli(istem2, yanıt2_kötü):.2f}\n")
 
 Özellikle insan geri bildirim toplamasındaki ölçeklenebilirlik ve potansiyel önyargılarla ilgili önemli zorluklar devam etse de, RLHF'nin temel prensipleri, daha yardımcı, dürüst ve zararsız yapay zeka inşa etmek için sağlam bir çerçeve sunmaktadır. Devam eden araştırmalar, veri toplamanın verimliliğini artırmaya, önyargıları azaltmaya ve ödül modellerinin yorumlanabilirliğini ve sağlamlığını geliştirmeye odaklanmıştır. Yapay zeka günlük yaşamla daha fazla bütünleştikçe, RLHF şüphesiz kritik bir geliştirme alanı olarak kalacak ve bu güçlü teknolojilerin yalnızca akıllı değil, aynı zamanda insanlığın çıkarlarıyla da uyumlu olmasını sağlayacaktır.
 
+
