@@ -452,3 +452,4 @@ Transformer modellerinde Sonişlemeli Normalizasyon ve Önişlemeli Normalizasyo
 
 Pre-Norm mimarisi, her alt katmandan ve kalan bağlantıdan *önce* Katman Normalizasyonu uygulayarak, ağ boyunca aktivasyonları ve gradyanları etkin bir şekilde stabilize eder. Bu özellik, güncel son teknoloji ürünleri tanımlayan devasa, derin üretken yapay zeka modellerini eğitmek için çok önemlidir. Modern araştırmalar ve pratik uygulamalar, sağlamlığı nedeniyle neredeyse evrensel olarak Pre-Norm'u tercih etmektedir, bu da araştırmacıların model boyutu ve karmaşıklığı sınırlarını daha fazla güvenle zorlamasına olanak tanır. Bu ayrımı anlamak sadece akademik bir alıştırma değil, çağdaş Transformer tabanlı üretken modellerle çalışan veya bunları oluşturan herkes için pratik bir zorunluluktur.
 
+
