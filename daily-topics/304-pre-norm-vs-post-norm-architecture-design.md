@@ -454,3 +454,4 @@ Pre-Norm mimarisi, her alt katmandan ve kalan bağlantıdan *önce* Katman Norma
 
 
 
+
