@@ -376,3 +376,4 @@ Ancak, ses klonlamayı çevreleyen etik manzara tehlikelerle doludur. Yaygın ya
 *   J. Shen et al., "Tacotron: Towards End-to-End Speech Synthesis," Interspeech 2017.
 *   Y. Jia et al., "Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis," NeurIPS 2018.
 
+
