@@ -377,3 +377,4 @@ Ancak, ses klonlamayı çevreleyen etik manzara tehlikelerle doludur. Yaygın ya
 *   Y. Jia et al., "Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis," NeurIPS 2018.
 
 
+
