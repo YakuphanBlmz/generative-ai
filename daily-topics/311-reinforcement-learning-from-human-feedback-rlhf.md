@@ -240,3 +240,4 @@ if __name__ == "__main__":
 
 Olağanüstü başarılarına rağmen, RLHF, insan açıklama maliyeti ve potansiyel yanlılıkları, RL eğitiminin hesaplama yoğunluğu ve ödül hacking olmadan gerçek hizalamayı sağlama karmaşıklıklarıyla ilgili önemli zorluklar sunmaktadır. Gelecekteki araştırmalar muhtemelen daha verimli veri toplama yöntemleri, sağlam eğitim algoritmaları ve ölçekte çeşitli ve adil insan geri bildirimini dahil etme teknikleri aracılığıyla bu sorunları azaltmaya odaklanacaktır. Yapay zeka sistemleri daha yaygın hale geldikçe, RLHF bu sistemlerin insan bağlamında faydalı, güvenli ve gerçekten zeki olmasını sağlamak için kritik bir metodoloji olmaya devam edecektir.
 
+
