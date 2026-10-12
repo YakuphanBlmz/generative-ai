@@ -391,3 +391,4 @@ print(f"LLM: {response}")
 ### 6. Sonuç
 <a name="6-sonuç"></a>
 İstem enjeksiyonu, Üretken Yapay Zeka alanında önemli ve gelişen bir güvenlik sorununu temsil etmektedir. Etkinliği, LLM'lerin katı güven sınırlarından ziyade talimat takibini ve bağlamsal anlamayı önceliklendiren temel tasarım prensiplerinden kaynaklanmaktadır. LLM'ler kritik uygulamalara daha fazla entegre edildikçe, kötü niyetli aktörlerin hassas verileri sızdırmak, karar almayı manipüle etmek veya yanlış bilgi yaymak için bu güvenlik açıklarını kullanma potansiyeli artmaktadır. Sağlam bir savunma stratejisi, dikkatli istem mühendisliği, düşmanca eğitim yoluyla sürekli model iyileştirmesi ve korumalı alanlar ve insan-döngüde inceleme gibi güçlü mimari güvenlik önlemlerini kapsayan çok yönlü bir yaklaşım gerektirir. Bu alandaki devam eden araştırma ve geliştirme, Üretken Yapay Zeka'nın tüm potansiyelini güvenli ve sorumlu bir şekilde kullanmak için kritik öneme sahiptir.
+
