@@ -374,3 +374,4 @@ Birleştirme tekniği seçimi büyük ölçüde özel bağlama bağlıdır: mode
 *   Zerveas, G., & Barmpalexis, P. (2021). Merging Models with Spherical Linear Interpolation. *arXiv ön baskısı arXiv:2104.09873*.
 *   Yadav, A., et al. (2023). DARE: Dynamic Architecture for Residual Ensemble. *arXiv ön baskısı arXiv:2311.03099*.
 
+
