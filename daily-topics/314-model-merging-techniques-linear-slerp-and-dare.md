@@ -373,3 +373,4 @@ Birleştirme tekniği seçimi büyük ölçüde özel bağlama bağlıdır: mode
 *   Wortsman, M., et al. (2022). Model Soups: Averaging Weights of Multiple Fine-tuned Models Improves Accuracy Without Increasing Inference Time. *Uluslararası Makine Öğrenimi Konferansı (ICML)*.
 *   Zerveas, G., & Barmpalexis, P. (2021). Merging Models with Spherical Linear Interpolation. *arXiv ön baskısı arXiv:2104.09873*.
 *   Yadav, A., et al. (2023). DARE: Dynamic Architecture for Residual Ensemble. *arXiv ön baskısı arXiv:2311.03099*.
+
