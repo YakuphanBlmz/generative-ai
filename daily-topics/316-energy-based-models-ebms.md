@@ -430,3 +430,4 @@ Enerji Tabanlı Modeller, veri uzayı üzerinde doğrudan bir enerji fonksiyonu 
 
 
 
+
