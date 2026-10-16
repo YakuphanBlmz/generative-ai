@@ -427,3 +427,4 @@ print(f"Sahte verinin enerjisi (güncelleme sonrası): {energy_fake_after.item()
 ## 7. Sonuç
 
 Enerji Tabanlı Modeller, veri uzayı üzerinde doğrudan bir enerji fonksiyonu tanımlayarak gözetimsiz öğrenme ve üretken modelleme için güçlü ve esnek bir çerçeve sunar. Açık üretken süreçlere veya çekişmeli dinamiklere ihtiyaç duymadan karmaşık veri dağılımlarını yakalama yetenekleri, onları diğer üretken modellere çekici bir alternatif haline getirir. Bölüşüm fonksiyonunun hesaplanamazlığı ve MCMC tabanlı eğitimin hesaplama talepleri önemli zorluklar oluştururken, kontrastif öğrenmedeki ilerlemeler, özellikle Skor Eşleştirme gibi yöntemler ve bunların Difüzyon Modelleri ile bağlantısı, EBM'lere olan ilgiyi yeniden canlandırmıştır. Araştırmalar daha verimli eğitim algoritmalarını ve daha sağlam enerji fonksiyonu mimarilerini keşfetmeye devam ettikçe, EBM'ler karmaşık verileri anlama ve üretme sürecimizde giderek daha önemli bir rol oynamaya hazırlanmaktadır.
+
