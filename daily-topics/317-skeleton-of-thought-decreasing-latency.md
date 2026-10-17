@@ -385,3 +385,4 @@ if __name__ == "__main__":
 Orkestrasyon karmaşıklığı ve çıktı tutarlılığını sağlama gibi konular dikkatli bir yaklaşım gerektirse de, hızdaki önemli kazançlar - genellikle iki ila beş kat veya daha fazla - SoT'yi paha biçilmez bir teknik haline getirmektedir. LLM'ler geliştikçe ve uygulamaları daha yaygın hale geldikçe, Düşünce İskeleti gibi metodolojiler, ham hesaplama gücü ile pratik, duyarlı kullanıcı deneyimleri arasındaki boşluğu doldurmada çok önemli olacak ve böylece üretken yapay zekanın çeşitli alanlardaki tüm potansiyelini ortaya çıkaracaktır. Dinamik iskelet üretimi, adaptif paralelleştirme ve geliştirilmiş tutarlılık mekanizmaları üzerine yapılacak daha fazla araştırma, bu umut verici yaklaşımın etkisini iyileştirmeye ve güçlendirmeye devam edecektir.
 
 
+
