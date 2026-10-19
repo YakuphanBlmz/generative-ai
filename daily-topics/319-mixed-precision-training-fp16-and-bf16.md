@@ -382,3 +382,4 @@ FP16 ve BF16 gibi formatları kullanan Karma Hassasiyetli Eğitim, derin öğren
 FP16 ve BF16 arasındaki seçim genellikle belirli donanıma, model mimarisine ve hassasiyet kaybına toleransa bağlıdır. Modern derin öğrenme çerçeveleri, karma hassasiyetli eğitimi son derece erişilebilir hale getirerek, araştırmacıların ve uygulayıcıların minimum kod değişikliğiyle bu güçlü optimizasyonlardan yararlanmasını sağlamıştır. Yapay zeka modelleri boyut ve karmaşıklıkta büyümeye devam ettikçe, karma hassasiyet hesaplama açısından mümkün olanın sınırlarını zorlamak için vazgeçilmez bir teknik olmaya devam edecektir.
 
 
+
