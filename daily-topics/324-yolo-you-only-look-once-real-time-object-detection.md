@@ -436,3 +436,4 @@ YOLO'nun etkisi, otonom sistemler, gözetim, robotik ve artırılmış gerçekli
 *   Bochkovskiy, A., Wang, C. Y., & Liao, H. Y. M. (2020). YOLOv4: Optimal Speed and Accuracy of Object Detection. *arXiv preprint arXiv:2004.10934*.
 *   Jocher, G., et al. (2020). *Ultralytics YOLOv5*. GitHub. Erişim adresi: https://github.com/ultralytics/yolov5
 *   Jocher, G., et al. (2023). *Ultralytics YOLOv8*. GitHub. Erişim adresi: https://github.com/ultralytics/ultralytics
+
