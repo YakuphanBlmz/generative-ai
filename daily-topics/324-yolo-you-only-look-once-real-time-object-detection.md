@@ -437,3 +437,4 @@ YOLO'nun etkisi, otonom sistemler, gözetim, robotik ve artırılmış gerçekli
 *   Jocher, G., et al. (2020). *Ultralytics YOLOv5*. GitHub. Erişim adresi: https://github.com/ultralytics/yolov5
 *   Jocher, G., et al. (2023). *Ultralytics YOLOv8*. GitHub. Erişim adresi: https://github.com/ultralytics/ultralytics
 
+
