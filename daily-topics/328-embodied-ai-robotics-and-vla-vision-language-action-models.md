@@ -362,3 +362,4 @@ Soyut YZ'den gömülü zekaya geçiş yolculuğu, bilgiyi gerçek dünya deneyim
 Veri verimliliği ve genellemeden güvenliğe ve etik hususlara kadar uzanan önemli zorluklar devam etse de, multimodal öğrenme, büyük temel modeller ve sağlam simülasyon tekniklerindeki hızlı gelişmeler umut vadeden bir görünüm sunmaktadır. VLA modellerinin sürekli gelişimi sadece robotik yeteneklerinin sınırlarını zorlamakla kalmayacak, aynı zamanda zekanın kendisi hakkındaki temel anlayışımızı da derinleştirecek ve sonuç olarak akıllı, gömülü ajanların insan toplumuna sorunsuz bir şekilde entegre olduğu ve olumlu katkıda bulunduğu bir geleceğin yolunu açacaktır.
 
 
+
