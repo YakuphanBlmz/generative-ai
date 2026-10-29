@@ -311,3 +311,4 @@ print(f"ELU aktivasyonundan sonra çıkış özellikleri şekli: {output_activat
 GAT'ler, düğüm sınıflandırması, bağlantı tahmini ve çizge sınıflandırması dahil olmak üzere çeşitli çizge tabanlı görevlerde üstün performans sergilemekle birlikte, çok yoğun çizge veya büyük mahalleler için artan hesaplama karmaşıklığı ve bellek ayak izi dikkate alınması gereken hususlar olmaya devam etmektedir. Bu zorluklara rağmen, dikkate dayalı mesaj geçişinin temel ilkesi son derece etkili olduğunu kanıtlamış, çizge gösterim öğrenmesinde sayısız sonraki gelişmelere ilham vermiştir. GAT'ler, karmaşık çizge yapılı verilerle çalışan araştırmacılar ve uygulayıcılar için anlamlı bilgiler çıkarmak için esnek, yorumlanabilir ve güçlü bir çerçeve sunan bir köşe taşı mimarisi olmaya devam etmektedir.
 
 
+
