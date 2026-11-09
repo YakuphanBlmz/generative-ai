@@ -232,3 +232,4 @@ Karar Ağaçları ve Rastgele Ormanlar, makine öğreniminde yorumlanabilirlik v
 *   Quinlan, J. R. (1986). Induction of decision trees. *Machine Learning, 1*(1), 81-106.
 *   Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Duchesnay, E. (2011). Scikit-learn: Machine Learning in Python. *Journal of Machine Learning Research, 12*, 2825-2830.
 
+
