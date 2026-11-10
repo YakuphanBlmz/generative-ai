@@ -280,3 +280,4 @@ LayoutLM, **düzen bilgisini** doğrudan **Transformer tabanlı dil modellerine*
 LayoutLM'nin başarısı, yalnızca düzen özelliklerinin önemini doğrulamakla kalmadı, aynı zamanda gerçek görüntü özelliklerini daha derinlemesine dahil ederek çok modlu füzyonu daha da geliştiren LayoutLMv2 ve LayoutLMv3 gibi daha gelişmiş modellere yol açan sonraki araştırmaların da önünü açtı. LayoutLM'nin katkısı, gerçekten akıllı belge işleme için makinelerin belgeleri sadece kelime dizileri olarak değil, zengin, görsel olarak yapılandırılmış varlıklar olarak algılaması gerektiği fikrinin bir kanıtıdır. Etkisi, çeşitli endüstrilerde sofistike belge otomasyonunu ve bilgi çıkarımını daha erişilebilir ve sağlam hale getirerek yankılanmaya devam ediyor.
 
 
+
