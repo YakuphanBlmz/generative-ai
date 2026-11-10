@@ -282,3 +282,4 @@ LayoutLM'nin başarısı, yalnızca düzen özelliklerinin önemini doğrulamakl
 
 
 
+
