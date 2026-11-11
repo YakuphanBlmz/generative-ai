@@ -306,3 +306,4 @@ def lisa_adam_update(model, optimizer, data, target, criterion, num_sampled_laye
 **LISA (Adam için Katman Bazında Önem Örneklemesi)**, daha verimli ve ölçeklenebilir **derin öğrenme** optimizasyonu arayışında önemli bir ilerlemeyi temsil etmektedir. Her eğitim iterasyonunda ağ katmanlarının yalnızca bir alt kümesini akıllıca seçerek ve güncelleyerek, LISA, geleneksel **Adam optimizasyonunun** aşırı büyük modellerde ilişkili olduğu önemli **hesaplama yükü** ve **bellek ayak izi** sorunlarını etkili bir şekilde giderir. Rekabetçi eğitim performansını korurken kaynak tüketimini azaltma yeteneği, onu **Büyük Dil Modelleri** ve diğer bellek yoğun mimarilerle çalışan araştırmacılar ve uygulayıcılar için paha biçilmez bir teknik haline getirmektedir. LISA, daha kaynak duyarlı optimizasyon stratejilerine yönelik kritik bir değişimin altını çizmekte ve daha da büyük ve daha karmaşık **derin sinir ağlarının** geliştirilmesi ve dağıtılması için zemin hazırlamaktadır.
 
 
+
