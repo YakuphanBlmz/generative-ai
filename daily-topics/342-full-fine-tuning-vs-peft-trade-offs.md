@@ -387,3 +387,4 @@ Tam ince ayar ve Parametre Verimli İnce Ayar (PEFT) arasındaki seçim, mevcut 
 LLM'lerin boyut ve karmaşıklık açısından büyümeye devam ettiği bir çağda, PEFT teknikleri vazgeçilmez araçlar haline gelmekte, güçlü yapay zeka modellerine erişimi demokratikleştirmekte ve uzmanlaşmış yapay zeka uygulamalarının daha verimli ve sürdürülebilir gelişimini sağlamaktadır. Uygulayıcılar, tam ince ayarı yalnızca mutlak zirve performansının diğer tüm hususları geride bıraktığı niş durumlar için saklayarak, PEFT'i varsayılan strateji olarak giderek daha fazla benimsemektedir.
 
 
+
