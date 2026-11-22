@@ -323,3 +323,4 @@ ResNet ve Inception gibi sonraki mimariler, atlama bağlantıları ve çok ölç
 
 
 
+
