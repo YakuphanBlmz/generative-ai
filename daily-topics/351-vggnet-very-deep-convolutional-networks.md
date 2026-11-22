@@ -320,3 +320,4 @@ VGGNet, derin öğrenme tarihinde anıtsal bir başarı olarak durmaktadır, öz
 
 ResNet ve Inception gibi sonraki mimariler, atlama bağlantıları ve çok ölçekli işleme gibi yeni kavramları tanıtarak verimlilik ve daha büyük derinlik açısından VGGNet'i geride bırakmış olsa da, VGGNet'in temel içgörüleri derinlemesine etkili olmaya devam etmektedir. Derinliğin öznitelik hiyerarşisine ve ayırt edici güce nasıl katkıda bulunduğunu anlamak için net, ampirik bir yol sağladı. Bugün, VGGNet'in önceden eğitilmiş modelleri, **güçlü öznitelik çıkarıcıları** olarak hala yaygın şekilde kullanılmaktadır; bu, evrişimsel sinir ağlarının geniş manzarasında güçlü ve yorumlanabilir bir yapı taşı olarak kalıcı mirasının bir kanıtıdır. Zarafeti ve etkinliği, yapay zeka alanında yeni nesil araştırmacılara ve uygulayıcılara ilham vermeye devam etmektedir.
 
+
