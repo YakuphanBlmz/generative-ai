@@ -272,3 +272,4 @@ print(özet)
 ## 6. Sonuç
 
 T5 modeli, Doğal Dil İşleme ve üretken yapay zeka evriminde anıtsal bir başarıyı temsil etmektedir. Tüm NLP görevlerini tek bir metinden-metne paradigması altında zarifçe birleştirerek, T5 farklı dil modellerini geliştirme ve dağıtma karmaşıklığını önemli ölçüde basitleştirmiştir. Sağlam kodlayıcı-çözücü Transformer mimarisi, geniş C4 veri kümesi üzerindeki yenilikçi parça bozulması ön eğitim hedefiyle birleşerek, sayısız uygulamada son teknoloji performans elde etmesini sağlamıştır. T5'in tasarım felsefesi sadece ölçek ve kapsamlı ön eğitimin gücünü göstermekle kalmamış, aynı zamanda genel amaçlı dil anlama ve üretme sistemlerini nasıl kavradığımız ve inşa ettiğimiz konusunda yeni bir standart belirlemiştir. Araştırmalar ilerlemeye devam ettikçe, T5'in prensiplerinden esinlenen modellerin yapay zeka destekli dil işlemede mümkün olanın sınırlarını zorlamaya devam edeceği şüphesizdir.
+
