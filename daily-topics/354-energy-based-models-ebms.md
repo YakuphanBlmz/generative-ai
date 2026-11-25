@@ -353,3 +353,4 @@ plt.show()
 Enerji Tabanlı Modeller, açık bir enerji fonksiyonu öğrenerek karmaşık veri dağılımlarını modellemek için güçlü ve esnek bir çerçeve sunar. Herhangi bir girdiye skaler bir enerji atayabilme yetenekleri, olabilirliklerinin doğrudan bir ölçümünü sağlayarak **üretken modelleme**, **anomali tespiti** ve **kendi kendine denetimli öğrenme** gibi prensipli yaklaşımları mümkün kılar. Bölüşüm fonksiyonunun hesaplanamazlığı ve eğitim ile çıkarım için MCMC örneklemesinin hesaplama gereksinimleri önemli zorluklar oluştursa da, daha verimli yaklaşıklaştırma teknikleri, enerji fonksiyonları için yeni mimariler (örneğin, **Örtük Sinirsel Temsiller** kullanarak) ve geliştirilmiş örnekleme stratejileri üzerine devam eden araştırmalar alanı ilerletmeye devam etmektedir. EBM'ler, diğer üretken paradigmaları tamamlayan ve karmaşık gerçek dünya verilerini anlamak ve üretmek için zengin bir temel sunan hayati bir araştırma alanı olmaya devam etmektedir.
 
 
+
