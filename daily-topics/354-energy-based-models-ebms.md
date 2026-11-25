@@ -355,3 +355,4 @@ Enerji Tabanlı Modeller, açık bir enerji fonksiyonu öğrenerek karmaşık ve
 
 
 
+
